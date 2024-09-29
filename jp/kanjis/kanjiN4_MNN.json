@@ -1,0 +1,4700 @@
+[
+    {
+        "vocabulary": "みます",
+        "kanji": "見ます, 診ます",
+        "kanjiVN": "KIẾN, CHẨN",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さがします",
+        "kanji": "探します,捜します",
+        "kanjiVN": "THÁM、SƯU",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おくれます[じかんに～]      ",
+        "kanji": "遅れます[時間に～]  ",
+        "kanjiVN": "TRÌTHỜI GIAN ",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まにあいます[じかんに～]    ",
+        "kanji": "間に合います[時間に～]   ",
+        "kanjiVN": "GIAN HỢPTHỜI GIAN",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひろいます",
+        "kanji": "拾います",
+        "kanjiVN": "THẬP",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "れんらくします",
+        "kanji": "連絡します",
+        "kanjiVN": "LIÊN LẠC",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きぶんがいい",
+        "kanji": "気分がいい",
+        "kanjiVN": "KHÍ PHÂN",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きぶんがわるい",
+        "kanji": "気分が悪い",
+        "kanjiVN": "KHÍ PHÂN ÁC",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うんどうかい",
+        "kanji": "運動会",
+        "kanjiVN": "VẬN ĐỘNG HỘI",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぼんおどり",
+        "kanji": "盆踊り",
+        "kanjiVN": "BỒN DŨNG",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ばしょ",
+        "kanji": "場所",
+        "kanjiVN": "TRƯỜNG SỞ",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さいふ",
+        "kanji": "財布",
+        "kanjiVN": "TÀI BỐ",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こっかいぎじどう",
+        "kanji": "国会議事堂",
+        "kanjiVN": "QUỐC HỘINGHỊ SỰ ĐƯỜNG",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "へいじつ",
+        "kanji": "平日",
+        "kanjiVN": "BÌNH NHẬT",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～べん",
+        "kanji": "～弁",
+        "kanjiVN": "BIỆN",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こんど",
+        "kanji": "今度",
+        "kanjiVN": "KIM ĐỘ",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちょくせつ",
+        "kanji": "直接",
+        "kanjiVN": "TRỰC TIẾP",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なんでも",
+        "kanji": "何でも",
+        "kanjiVN": "HÀ",
+        "lesson": 26,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かいます",
+        "kanji": "飼います",
+        "kanjiVN": "TỰ",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はしります　[みちを～]",
+        "kanji": "走ります[道を～]",
+        "kanjiVN": "TẨUĐẠO ",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みえます　[やまが～] ",
+        "kanji": "見えます[山が～]",
+        "kanjiVN": "KIẾNSƠN ",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きこえます　[おとが～]",
+        "kanji": "聞こえます[音が～]",
+        "kanjiVN": "VĂNÂM ",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "できます　[みちが～]",
+        "kanji": "できます[道が～]",
+        "kanjiVN": "ĐẠO",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひらきます　[きょうしつを～]",
+        "kanji": "開きます[教室を～]",
+        "kanjiVN": "KHAIGIÁO THẤT ",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しんぱい[な]",
+        "kanji": "心配[な]",
+        "kanjiVN": "TÂM PHỐI",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とり",
+        "kanji": "鳥",
+        "kanjiVN": "ĐIẾU",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こえ",
+        "kanji": "声",
+        "kanjiVN": "THANH",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なみ",
+        "kanji": "波",
+        "kanjiVN": "BA",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はなび",
+        "kanji": "花火",
+        "kanjiVN": "HOA HỎA",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "どうぐ",
+        "kanji": "道具",
+        "kanjiVN": "ĐẠO CỤ",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いえ",
+        "kanji": "家",
+        "kanjiVN": "GIA",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～きょうしつ",
+        "kanji": "～教室",
+        "kanjiVN": "GIÁO THẤT",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かた",
+        "kanji": "方",
+        "kanjiVN": "PHƯƠNG",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～ご",
+        "kanji": "～後",
+        "kanjiVN": "HẬU",
+        "lesson": 27,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うれます　[パンが～]",
+        "kanji": "売れます",
+        "kanjiVN": "MẠI",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おどります",
+        "kanji": "踊ります",
+        "kanjiVN": "DŨNG",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えらびます",
+        "kanji": "選びます",
+        "kanjiVN": "TUYỂN",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かよいます　[だいがくに～]",
+        "kanji": "通います[大学に～]",
+        "kanjiVN": "THÔNGĐẠI HỌC ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ねっしん[な]",
+        "kanji": "熱心[な]",
+        "kanjiVN": "NHIỆT TÂM",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えらい",
+        "kanji": "偉い",
+        "kanjiVN": "VĨ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けしき",
+        "kanji": "景色",
+        "kanjiVN": "CẢNH SẮC",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "びよういん",
+        "kanji": "美容院",
+        "kanjiVN": "MỸ DUNG VIỆN",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "だいどころ",
+        "kanji": "台所",
+        "kanjiVN": "ĐÀI SỞ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けいけん",
+        "kanji": "経験",
+        "kanjiVN": "KINH NGHIỆM",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちから",
+        "kanji": "力",
+        "kanjiVN": "LỰC",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にんき",
+        "kanji": "人気",
+        "kanjiVN": "NHÂN KHÍ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かたち",
+        "kanji": "形",
+        "kanjiVN": "HÌNH",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いろ",
+        "kanji": "色",
+        "kanjiVN": "SẮC",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あじ",
+        "kanji": "味",
+        "kanjiVN": "VỊ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しなもの",
+        "kanji": "品物",
+        "kanjiVN": "PHẨM VẬT",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ねだん",
+        "kanji": "値段",
+        "kanjiVN": "TRỊ ĐOẠN",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きゅうりょう",
+        "kanji": "給料",
+        "kanjiVN": "CẤP LIỆU",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ばんぐみ",
+        "kanji": "番組",
+        "kanjiVN": "PHIÊN TỔ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かしゅ",
+        "kanji": "歌手",
+        "kanjiVN": "CA THỦ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しょうせつ",
+        "kanji": "小説",
+        "kanjiVN": "TIỂU THUYẾT",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しょうせつか",
+        "kanji": "小説家",
+        "kanjiVN": "TIỂU THUYẾT GIA",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～か",
+        "kanji": "～家",
+        "kanjiVN": "GIA",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～き",
+        "kanji": "～機",
+        "kanjiVN": "CƠ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むすこ",
+        "kanji": "息子",
+        "kanjiVN": "TỨC TỬ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むすこさん",
+        "kanji": "息子さん",
+        "kanjiVN": "TỨC TỬ",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むすめ",
+        "kanji": "娘",
+        "kanjiVN": "NƯƠNG",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むすめさん",
+        "kanji": "娘さん",
+        "kanjiVN": "NƯƠNG",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じぶん",
+        "kanji": "自分",
+        "kanjiVN": "TỰ PHÂN",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しょうらい",
+        "kanji": "将来",
+        "kanjiVN": "TƯƠNG LAI",
+        "lesson": 28,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あきます　[ドアが～]",
+        "kanji": "開きます",
+        "kanjiVN": "KHAI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しまります　[ドアが～]",
+        "kanji": "閉まります",
+        "kanjiVN": "BẾ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つきます　[でんきが～]",
+        "kanji": "つきます[電気が～]",
+        "kanjiVN": "ĐIỆN KHÍ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きえます　[でんきが～]",
+        "kanji": "消えます[電気が～]",
+        "kanjiVN": "TIÊUĐIỆN KHÍ ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こわれます　[いすが～]",
+        "kanji": "壊れます",
+        "kanjiVN": "HOẠI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "われます　[コップが～]",
+        "kanji": "割れます",
+        "kanjiVN": "CÁT",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おれます　[きが～] ",
+        "kanji": "折れます[木が～]",
+        "kanjiVN": "TRIẾTMỘC ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やぶれます　[かみが～]",
+        "kanji": "破れます[紙が～]",
+        "kanjiVN": "PHÁCHỈ ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よごれます　[ふくが～]",
+        "kanji": "汚れます[服が～]",
+        "kanjiVN": "ÔPHỤC ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つきます　[ポケットが～]",
+        "kanji": "付きます",
+        "kanjiVN": "PHÓ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はずれます　[ボタンが～]",
+        "kanji": "外れます",
+        "kanjiVN": "NGOẠI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とまります　[くるまが～]",
+        "kanji": "止まります",
+        "kanjiVN": "CHỈ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おとします",
+        "kanji": "落とします",
+        "kanjiVN": "LẠC",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かかります　[かぎが～]",
+        "kanji": "掛かります",
+        "kanjiVN": "QUẢI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とりかえます",
+        "kanji": "取り替えます",
+        "kanjiVN": "THỦ HOÁN",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かたづけます",
+        "kanji": "片づけます",
+        "kanjiVN": "PHIẾN",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[お]さら",
+        "kanji": "[お]皿",
+        "kanjiVN": "MÃNH",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふくろ",
+        "kanji": "袋",
+        "kanjiVN": "ĐẠI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しょるい",
+        "kanji": "書類",
+        "kanjiVN": "THƯ LOẠI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えだ",
+        "kanji": "枝",
+        "kanjiVN": "CHI",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えきいん",
+        "kanji": "駅員",
+        "kanjiVN": "DỊCH VIÊN",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こうばん",
+        "kanji": "交番",
+        "kanjiVN": "GIAO PHIÊN",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "へんじ",
+        "kanji": "返事",
+        "kanjiVN": "PHẢN SỰ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おさきにどうぞ。",
+        "kanji": "お先にどうぞ。",
+        "kanjiVN": "TIÊN",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "げんじものがたり",
+        "kanji": "源氏物語",
+        "kanjiVN": "NGUYÊN THỊ VẬT NGỮ",
+        "lesson": 29,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かけます",
+        "kanji": "掛けます",
+        "kanjiVN": "QUẢI",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かざります",
+        "kanji": "飾ります",
+        "kanjiVN": "SỨC",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ならべます",
+        "kanji": "並べます",
+        "kanjiVN": "TỊNH",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うえます",
+        "kanji": "植えます",
+        "kanjiVN": "THỰC",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もどします",
+        "kanji": "戻します",
+        "kanjiVN": "LỆ",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きめます",
+        "kanji": "決めます",
+        "kanjiVN": "QUYẾT",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よしゅうします",
+        "kanji": "予習します",
+        "kanjiVN": "DỰ TẬP",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふくしゅうします",
+        "kanji": "復習します",
+        "kanjiVN": "PHỤC TẬP",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゅぎょう",
+        "kanji": "授業",
+        "kanjiVN": "THỤ NGHIỆP",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こうぎ",
+        "kanji": "講義",
+        "kanjiVN": "GIẢNG NGHĨA",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よてい",
+        "kanji": "予定",
+        "kanjiVN": "DỰ ĐỊNH",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おしらせ",
+        "kanji": "お知らせ",
+        "kanjiVN": "TRI",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よていひょう",
+        "kanji": "予定表",
+        "kanjiVN": "DỰ ĐỊNH BIỂU",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ごみばこ",
+        "kanji": "ごみ箱",
+        "kanjiVN": "TƯƠNG",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にんぎょう",
+        "kanji": "人形",
+        "kanjiVN": "NHÂN HÌNH",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かびん",
+        "kanji": "花瓶",
+        "kanjiVN": "HOA BÌNH",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かがみ",
+        "kanji": "鏡",
+        "kanjiVN": "KÍNH",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひきだし",
+        "kanji": "引き出し",
+        "kanjiVN": "DẪN XUẤT",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "げんかん",
+        "kanji": "玄関",
+        "kanjiVN": "HUYỀN QUAN",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ろうか",
+        "kanji": "廊下",
+        "kanjiVN": "LANG HẠ",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かべ",
+        "kanji": "壁",
+        "kanjiVN": "BÍCH",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いけ",
+        "kanji": "池",
+        "kanjiVN": "TRÌ",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もとのところ",
+        "kanji": "元の所",
+        "kanjiVN": "NGUYÊN SỞ",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まわり",
+        "kanji": "周り",
+        "kanjiVN": "CHU",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まんなか",
+        "kanji": "真ん中",
+        "kanjiVN": "CHÂN TRUNG",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すみ",
+        "kanji": "隅",
+        "kanjiVN": "NGUNG",
+        "lesson": 30,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つづけます",
+        "kanji": "続けます",
+        "kanjiVN": "TỤC",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みつけます",
+        "kanji": "見つけます",
+        "kanjiVN": "KIẾN",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とります　[やすみを～]",
+        "kanji": "取ります[休みを～]",
+        "kanjiVN": "THỦHƯU",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うけます　[しけんを～]",
+        "kanji": "受けます[試験を～]",
+        "kanjiVN": "THỤTHÍ NGHIỆM",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もうしこみます",
+        "kanji": "申し込みます",
+        "kanjiVN": "THÂNVÀO",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きゅうけいします",
+        "kanji": "休憩します",
+        "kanjiVN": "HƯU KHẾ",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "れんきゅう",
+        "kanji": "連休",
+        "kanjiVN": "LIÊN HƯU",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さくぶん",
+        "kanji": "作文",
+        "kanjiVN": "TÁC VĂN",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はっぴょう",
+        "kanji": "発表",
+        "kanjiVN": "PHÁT BIỂU",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "てんらんかい",
+        "kanji": "展覧会",
+        "kanjiVN": "TRIỂN LÃM HỘI",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けっこんしき",
+        "kanji": "結婚式",
+        "kanjiVN": "KẾT HÔN THỨC",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[お]そうしき",
+        "kanji": "[お]葬式",
+        "kanjiVN": "TÁNG THỨC",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しき",
+        "kanji": "式",
+        "kanjiVN": "THỨC",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほんしゃ",
+        "kanji": "本社",
+        "kanjiVN": "BẢN XÃ",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "してん",
+        "kanji": "支店",
+        "kanjiVN": "CHI ĐIẾM",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きょうかい",
+        "kanji": "教会",
+        "kanjiVN": "GIÁO HỘI",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "だいがくいん",
+        "kanji": "大学院",
+        "kanjiVN": "ĐẠI HỌC VIỆN",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "どうぶつえん",
+        "kanji": "動物園",
+        "kanjiVN": "ĐỘNG VẬT VIÊN",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おんせん",
+        "kanji": "温泉",
+        "kanjiVN": "ÔN TUYỀN",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おこさん",
+        "kanji": "お子さん",
+        "kanjiVN": "TỬ",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ーごう",
+        "kanji": "ー号",
+        "kanjiVN": "HIỆU",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～のほう",
+        "kanji": "～の方",
+        "kanjiVN": "PHƯƠNG",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しんこうべ",
+        "kanji": "新神戸",
+        "kanjiVN": "TÂN THẦN HỘ",
+        "lesson": 31,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うんどうします",
+        "kanji": "運動します",
+        "kanjiVN": "VẬN ĐỘNG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せいこうします",
+        "kanji": "成功します",
+        "kanjiVN": "THÀNH CÔNG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しっぱいします　[しけんに～]",
+        "kanji": "失敗します[試験に～]　　",
+        "kanjiVN": "THẤT BẠITHÍ NGHIỆM ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ごうかくします　[しけんに～]　",
+        "kanji": "合格します[試験に～]",
+        "kanjiVN": "HỢP CÁCHTHÍ NGHIỆM ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やみます　[あめが～] ",
+        "kanji": "[雨が～]",
+        "kanjiVN": "VŨ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はれます",
+        "kanji": "晴れます",
+        "kanjiVN": "TÌNH",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くもります",
+        "kanji": "曇ります",
+        "kanjiVN": "ĐÀM",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つづきます　[ねつが～]",
+        "kanji": "続きます[熱が～]",
+        "kanjiVN": "TỤCNHIỆT ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひやします",
+        "kanji": "冷やします",
+        "kanjiVN": "LÃNH",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こみます　[みちが～]",
+        "kanji": "込みます",
+        "kanjiVN": "VÀOĐẠO",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すきます　[みちが～]",
+        "kanji": "[道が～]",
+        "kanjiVN": "ĐẠO",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "でます [しあいに～] [パーティーに～]",
+        "kanji": "出ます[試合に～][パーティーに]",
+        "kanjiVN": "XUẤTTHÍ HỢP",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むりをします",
+        "kanji": "無理をします",
+        "kanjiVN": "VÔ LÍ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゅうぶん[な]",
+        "kanji": "十分[な]",
+        "kanjiVN": "THẬP PHÂN",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せんせい",
+        "kanji": "先生",
+        "kanjiVN": "TIÊN SINH",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そら",
+        "kanji": "空",
+        "kanjiVN": "KHÔNG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たいよう",
+        "kanji": "太陽",
+        "kanjiVN": "THÁI DƯƠNG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほし",
+        "kanji": "星",
+        "kanjiVN": "TINH",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かぜ",
+        "kanji": "風",
+        "kanjiVN": "PHONG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひがし",
+        "kanji": "東",
+        "kanjiVN": "ĐÔNG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にし",
+        "kanji": "西",
+        "kanjiVN": "TÂY",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みなみ",
+        "kanji": "南",
+        "kanjiVN": "NAM",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きた",
+        "kanji": "北",
+        "kanjiVN": "BẮC",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こくさい～",
+        "kanji": "国際～",
+        "kanjiVN": "QUỐC TẾ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すいどう",
+        "kanji": "水道",
+        "kanjiVN": "THỦY ĐẠO",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こんや",
+        "kanji": "今夜",
+        "kanjiVN": "KIM DẠ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ゆうがた",
+        "kanji": "夕方",
+        "kanjiVN": "TỊCH PHƯƠNG",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おそく",
+        "kanji": "遅く",
+        "kanjiVN": "TRÌ",
+        "lesson": 32,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にげます",
+        "kanji": "逃げます",
+        "kanjiVN": "ĐÀO",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さわぎます",
+        "kanji": "騒ぎます",
+        "kanjiVN": "TAO",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なげます",
+        "kanji": "投げます",
+        "kanjiVN": "ĐẦU",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まもります",
+        "kanji": "守ります",
+        "kanjiVN": "THỦ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はじまります　[しきが～]",
+        "kanji": "始まります[式が～]",
+        "kanjiVN": "THỨC THỦY",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しゅっせきします　[かいぎに～]",
+        "kanji": "出席します[会議に～]",
+        "kanjiVN": "XUẤT TỊCHHỘI NGHỊ ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つたえます",
+        "kanji": "伝えます",
+        "kanjiVN": "TRUYỀN",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちゅういします  [くるまに～]　　",
+        "kanji": "注意します[車に～]　",
+        "kanjiVN": "CHÚ ÝXA ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はずします  [せきを～]　　",
+        "kanji": "外します[席を～]　　",
+        "kanjiVN": "NGOẠITỊCH",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もどります",
+        "kanji": "戻ります",
+        "kanjiVN": "LỆ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あります　[でんわが～]",
+        "kanji": "[電話が～]",
+        "kanjiVN": "ĐIỆN THOẠI",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おなじ",
+        "kanji": "同じ",
+        "kanjiVN": "ĐỒNG",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けいさつ",
+        "kanji": "警察",
+        "kanjiVN": "CẢNH SÁT",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せき",
+        "kanji": "席",
+        "kanjiVN": "TỊCH",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しめきり",
+        "kanji": "締め切り",
+        "kanjiVN": "ĐẾ THIẾT",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きそく",
+        "kanji": "規則  ",
+        "kanjiVN": "QUY TẮC",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きけん",
+        "kanji": "危険",
+        "kanjiVN": "NGUY HIỂM",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しようきんし",
+        "kanji": "使用禁止",
+        "kanjiVN": "SỬ DỤNG CẤM CHỈ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たちいりきんし",
+        "kanji": "立入禁止",
+        "kanjiVN": "LẬP NHẬP CẤM CHỈ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じょこう",
+        "kanji": "徐行",
+        "kanjiVN": "TỪ HÀNH",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いりぐち",
+        "kanji": "入口",
+        "kanjiVN": "NHẬP KHẨU",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "でぐち",
+        "kanji": "出口",
+        "kanjiVN": "XUẤT KHẨU",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひじょうぐち",
+        "kanji": "非常口",
+        "kanjiVN": "PHI THƯỜNG KHẨU",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むりょう",
+        "kanji": "無料",
+        "kanjiVN": "VÔ LIỆU",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わりびき",
+        "kanji": "割引",
+        "kanjiVN": "CÁT DẪN",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "のみほうだい",
+        "kanji": "飲み放題",
+        "kanjiVN": "ẨM PHÓNG ĐỀ",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しようちゅう",
+        "kanji": "使用中",
+        "kanjiVN": "SỬ DỤNG TRUNG",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぼしゅうちゅう",
+        "kanji": "募集中",
+        "kanjiVN": "MỘ TẬP TRUNG",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～ちゅう",
+        "kanji": "～中",
+        "kanjiVN": "TRUNG",
+        "lesson": 33,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みがきます [はを～]",
+        "kanji": "磨きます[歯を～]",
+        "kanjiVN": "MAXỈ ",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くみたてます",
+        "kanji": "組み立てます",
+        "kanjiVN": "TỔ LẬP",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おります",
+        "kanji": "折ります",
+        "kanjiVN": "TRIẾT",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きがつきます [わすれものに～]",
+        "kanji": "気がつきます[忘れ物に～]　",
+        "kanjiVN": "KHÍVONG VẬT ",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みつかります [かぎが～]　",
+        "kanji": "見つかります[かぎが～]　",
+        "kanjiVN": "KIẾN",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しつもんします",
+        "kanji": "質問します",
+        "kanjiVN": "CHẤT VẤN",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[お]しろ",
+        "kanji": "[お]城",
+        "kanjiVN": "THÀNH",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せつめいしょ",
+        "kanji": "説明書",
+        "kanjiVN": "THUYẾT MINH THƯ",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ず",
+        "kanji": "図",
+        "kanjiVN": "ĐỒ",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せん",
+        "kanji": "線",
+        "kanjiVN": "TUYẾN",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やじるし",
+        "kanji": "矢印",
+        "kanjiVN": "THỈ ẤN",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くろ",
+        "kanji": "黒",
+        "kanjiVN": "HẮC",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しろ",
+        "kanji": "白",
+        "kanjiVN": "BẠCH",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あか",
+        "kanji": "赤",
+        "kanjiVN": "XÍCH",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あお",
+        "kanji": "青",
+        "kanjiVN": "THANH",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こん",
+        "kanji": "紺",
+        "kanjiVN": "CÁM",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きいろ",
+        "kanji": "黄色",
+        "kanjiVN": "HOÀNG SẮC",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちゃいろ",
+        "kanji": "茶色",
+        "kanjiVN": "TRÀ SẮC",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おきゃく[さん]",
+        "kanji": "お客[さん]",
+        "kanjiVN": "KHÁCH",
+        "lesson": 34,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さきます[はなが～]",
+        "kanji": "咲きます[花が～]",
+        "kanjiVN": "TIẾUHOA ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かわります[いろが～] ",
+        "kanji": "変わります[色が～] ",
+        "kanjiVN": "BIẾNSẮC ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こまります",
+        "kanji": "困ります",
+        "kanjiVN": "KHỐN",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つけます[まるを～] ",
+        "kanji": "付けます[丸を～]",
+        "kanjiVN": "PHÓHOÀN ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なおります[びょうきが～][こしょうが～]  ",
+        "kanji": "治ります、直ります",
+        "kanjiVN": "TRỊTRỰC",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にゅうりょくします",
+        "kanji": "入力します",
+        "kanjiVN": "NHẬP LỰC",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ただしい",
+        "kanji": "正しい",
+        "kanjiVN": "CHÍNH",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むこう",
+        "kanji": "向こう",
+        "kanjiVN": "HƯỚNG",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しま",
+        "kanji": "島",
+        "kanjiVN": "ĐẢO",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みなと",
+        "kanji": "港",
+        "kanjiVN": "CẢNG",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きんじょ",
+        "kanji": "近所",
+        "kanjiVN": "CẬN SỞ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おくじょう",
+        "kanji": "屋上",
+        "kanjiVN": "ỐC THƯỢNG",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かいがい",
+        "kanji": "海外",
+        "kanjiVN": "HẢI NGOẠI",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やまのぼり",
+        "kanji": "山登り",
+        "kanjiVN": "SƠN ĐĂNG",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "れきし",
+        "kanji": "歴史",
+        "kanjiVN": "LỊCH SỬ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きかい",
+        "kanji": "機会",
+        "kanjiVN": "CƠ HỘI",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きょか",
+        "kanji": "許可",
+        "kanjiVN": "HỨA KHẢ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まる",
+        "kanji": "丸",
+        "kanjiVN": "HOÀN",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せつび",
+        "kanji": "設備",
+        "kanjiVN": "THIẾT BỊ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すいはんき",
+        "kanji": "炊飯器",
+        "kanjiVN": "XÚY PHẠN KHÍ",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "は",
+        "kanji": "葉",
+        "kanjiVN": "DIỆP",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むかし",
+        "kanji": "昔",
+        "kanjiVN": "TÍCH",
+        "lesson": 35,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あいます  [じこに～]",
+        "kanji": "[事故に～]",
+        "kanjiVN": "SỰ CỐ",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちょきんします",
+        "kanji": "貯金します",
+        "kanjiVN": "TRỮ KIM",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すぎます　[７じを～] ",
+        "kanji": "過ぎます[７時を～]",
+        "kanjiVN": "QUÁTHÌ ",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なれます　[しゅうかんに～]",
+        "kanji": "慣れます[習慣に～]",
+        "kanjiVN": "QUÁNTẬP QUÁN ",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くさります  [たべものが～]",
+        "kanji": "腐ります[食べ物が～]",
+        "kanjiVN": "HỦTHỰC VẬT",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けんどう",
+        "kanji": "剣道",
+        "kanjiVN": "KIẾM ĐẠO",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゅうどう",
+        "kanji": "柔道",
+        "kanjiVN": "NHU ĐẠO",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うちゅう",
+        "kanji": "宇宙",
+        "kanjiVN": "VŨ TRỤ",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きょく",
+        "kanji": "曲",
+        "kanjiVN": "KHÚC",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まいしゅう",
+        "kanji": "毎週",
+        "kanjiVN": "MỖI CHU",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まいつき",
+        "kanji": "毎月",
+        "kanjiVN": "MỖI NGUYỆT",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まいとし　（まいねん）",
+        "kanji": "毎年",
+        "kanjiVN": "MỖI NIÊN",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かならず",
+        "kanji": "必ず",
+        "kanjiVN": "TẤT",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぜったいに",
+        "kanji": "絶対に",
+        "kanjiVN": "TUYỆT ĐỐI",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じょうずに",
+        "kanji": "上手に",
+        "kanjiVN": "THƯỢNG THỦ",
+        "lesson": 36,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほめます",
+        "kanji": "褒めます",
+        "kanjiVN": "BAO",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さそいます",
+        "kanji": "誘います",
+        "kanjiVN": "DỤ",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しょうたいします",
+        "kanji": "招待します",
+        "kanjiVN": "CHIÊU ĐÃI",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たのみます",
+        "kanji": "頼みます",
+        "kanjiVN": "LẠI",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちゅういします",
+        "kanji": "注意します",
+        "kanjiVN": "CHÚ Ý",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふみます",
+        "kanji": "踏みます",
+        "kanjiVN": "ĐẠP",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こわします",
+        "kanji": "壊します",
+        "kanjiVN": "HOẠI",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よごします",
+        "kanji": "汚します",
+        "kanjiVN": "Ô",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おこないます",
+        "kanji": "行います",
+        "kanjiVN": "HÀNH",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ゆしゅつします",
+        "kanji": "輸出します",
+        "kanjiVN": "THÂU XUẤT",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ゆにゅうします",
+        "kanji": "輸入します",
+        "kanjiVN": "THÂU NHẬP",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほんやくします",
+        "kanji": "翻訳します",
+        "kanjiVN": "PHIÊN DỊCH",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はつめいします",
+        "kanji": "発明します",
+        "kanjiVN": "PHÁT MINH",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はっけんします",
+        "kanji": "発見します",
+        "kanjiVN": "PHÁT KIẾN",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こめ",
+        "kanji": "米",
+        "kanjiVN": "MỄ",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むぎ",
+        "kanji": "麦",
+        "kanjiVN": "MẠCH",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せきゆ",
+        "kanji": "石油",
+        "kanjiVN": "THẠCH DU",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "げんりょう",
+        "kanji": "原料",
+        "kanjiVN": "NGUYÊN LIỆU",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "どろぼう",
+        "kanji": "泥棒",
+        "kanjiVN": "NÊ BỔNG",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けいかん",
+        "kanji": "警官",
+        "kanjiVN": "CẢNH QUAN",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せかいじゅう",
+        "kanji": "世界中",
+        "kanjiVN": "THẾ GIỚI TRUNG",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～じゅう",
+        "kanji": "～中",
+        "kanjiVN": "TRUNG",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "―せいき",
+        "kanji": "―世紀",
+        "kanjiVN": "THẾ KỶ",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なにご",
+        "kanji": "何語",
+        "kanjiVN": "HÀ NGỮ",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とうだいじ",
+        "kanji": "東大寺",
+        "kanjiVN": "ĐÔNG ĐẠI TỰ",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "だいぶつ",
+        "kanji": "大仏",
+        "kanjiVN": "ĐẠI PHẬT",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えどじだい",
+        "kanji": "江戸時代",
+        "kanjiVN": "GIANG HỘ THỜI ĐẠI　",
+        "lesson": 37,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さんかします　[りょこうに～]",
+        "kanji": "参加します[旅行に～]",
+        "kanjiVN": "THAM GIALỮ HÀNH",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そだてます",
+        "kanji": "育てます",
+        "kanjiVN": "DỤC",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はこびます",
+        "kanji": "運びます",
+        "kanjiVN": "VẬN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にゅういんします",
+        "kanji": "入院します",
+        "kanjiVN": "NHẬP VIỆN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たいいんします",
+        "kanji": "退院します",
+        "kanjiVN": "THOÁI VIỆN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いれます [でんげんを～]",
+        "kanji": "入れます[電源を～]",
+        "kanjiVN": "NHẬPĐIỆN NGUYÊN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きります [でんげんを～]",
+        "kanji": "切ります[電源を～]",
+        "kanjiVN": "THIẾTĐIỆN NGUYÊN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かけます [かぎを～]",
+        "kanji": "掛けます[かぎを～]",
+        "kanjiVN": "QUẢI",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きもちがいい",
+        "kanji": "気持ちがいい",
+        "kanjiVN": "KHÍ TRÌ",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きもちがわるい",
+        "kanji": "気持ちが悪い",
+        "kanjiVN": "KHÍ TRÌ ÁC",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おおきな～",
+        "kanji": "大きな～",
+        "kanjiVN": "ĐẠI",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちいさな～",
+        "kanji": "小さな～",
+        "kanjiVN": "NHỎ ~",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あかちゃん",
+        "kanji": "赤ちゃん",
+        "kanjiVN": "XÍCH",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しょうがっこう",
+        "kanji": "小学校",
+        "kanjiVN": "TIỂU HỌC HIỆU",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちゅうがっこう",
+        "kanji": "中学校",
+        "kanjiVN": "TRUNG HỌC HIỆU",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えきまえ",
+        "kanji": "駅前",
+        "kanjiVN": "DỊCH TIỀN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かいがん",
+        "kanji": "海岸",
+        "kanjiVN": "HẢI NGẠN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こうじょう",
+        "kanji": "工場",
+        "kanjiVN": "CÔNG TRƯỜNG",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むら",
+        "kanji": "村",
+        "kanjiVN": "THÔN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ゆびわ",
+        "kanji": "指輪",
+        "kanjiVN": "CHỈ LUÂN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "でんげん",
+        "kanji": "電源",
+        "kanjiVN": "ĐIỆN NGUYÊN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しゅうかん",
+        "kanji": "習慣",
+        "kanjiVN": "TẬP QUÁN",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けんこう",
+        "kanji": "健康",
+        "kanjiVN": "KIỆN KHANG",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～せい",
+        "kanji": "～製",
+        "kanjiVN": "CHẾ",
+        "lesson": 38,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こたえます [しつもんに～]",
+        "kanji": "答えます[質問に～]",
+        "kanjiVN": "ĐÁPCHẤT VẤN ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たおれます [ビルが～]",
+        "kanji": "倒れます[ビルが～]",
+        "kanjiVN": "ĐẢO",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とおります [みちを～]",
+        "kanji": "通ります[道を～]",
+        "kanjiVN": "THÔNGĐẠO ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しにます",
+        "kanji": "死にます",
+        "kanjiVN": "TỬ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あんしんします",
+        "kanji": "安心します",
+        "kanjiVN": "AN TÂM",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "りこんします",
+        "kanji": "離婚します",
+        "kanjiVN": "LY HÔN",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふとります",
+        "kanji": "太ります",
+        "kanjiVN": "THÁI",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふくざつ[な]",
+        "kanji": "複雑[な]",
+        "kanjiVN": "PHỨC TẠP",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゃま[な]",
+        "kanji": "邪魔[な]",
+        "kanjiVN": "TÀ MA",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かたい",
+        "kanji": "硬い",
+        "kanjiVN": "NGẠNH",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やわらかい",
+        "kanji": "軟らかい",
+        "kanjiVN": "NHUYỄN",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きたない",
+        "kanji": "汚い",
+        "kanjiVN": "Ô",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かなしい",
+        "kanji": "悲しい",
+        "kanjiVN": "BI",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はずかしい",
+        "kanji": "恥ずかしい",
+        "kanjiVN": "SỈ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しゅしょう",
+        "kanji": "首相",
+        "kanjiVN": "THỦ TƯỚNG",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じしん",
+        "kanji": "地震",
+        "kanjiVN": "ĐỊA CHẤN",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つなみ",
+        "kanji": "津波",
+        "kanjiVN": "TÂN BA",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たいふう",
+        "kanji": "台風",
+        "kanjiVN": "ĐÀI PHONG",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かみなり",
+        "kanji": "雷",
+        "kanjiVN": "LÔI",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かじ",
+        "kanji": "火事",
+        "kanjiVN": "HỎA SỰ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じこ",
+        "kanji": "事故",
+        "kanjiVN": "SỰ CỐ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[お]みあい",
+        "kanji": "[お]見合い",
+        "kanjiVN": "KIẾN HỢP",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そうさ",
+        "kanji": "操作",
+        "kanjiVN": "THAO TÁC",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かいじょう",
+        "kanji": "会場",
+        "kanjiVN": "HỘI TRƯỜNG",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～だい",
+        "kanji": "～代",
+        "kanjiVN": "ĐẠI",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～や",
+        "kanji": "～屋",
+        "kanjiVN": "ỐC",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "―ごうしつ",
+        "kanji": "―号室",
+        "kanjiVN": "HIỆU THẤT",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おおぜい",
+        "kanji": "大勢",
+        "kanjiVN": "ĐẠI THẾ",
+        "lesson": 39,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かぞえます",
+        "kanji": "数えます",
+        "kanjiVN": "SỐ",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はかります",
+        "kanji": "測ります、量ります",
+        "kanjiVN": "TRẮC LƯỢNG",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たしかめます",
+        "kanji": "確かめます",
+        "kanjiVN": "XÁC",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あいます [サイズが～]",
+        "kanji": "合います[サイズが～]",
+        "kanjiVN": "HỢP",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しゅっぱつします",
+        "kanji": "出発します",
+        "kanjiVN": "XUẤT PHÁT",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とうちゃくします",
+        "kanji": "到着します",
+        "kanjiVN": "ĐÁO TRƯỚC",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よいます",
+        "kanji": "酔います",
+        "kanjiVN": "TÚY",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "でます　[もんだいが～]",
+        "kanji": "出ます[問題が～]",
+        "kanjiVN": "XUẤTVẤN ĐỀ",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そうだんします",
+        "kanji": "相談します",
+        "kanjiVN": "TƯƠNG ĐÀM",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひつよう[な]",
+        "kanji": "必要[な]",
+        "kanjiVN": "TẤT YẾU",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "てんきよほう",
+        "kanji": "天気予報",
+        "kanjiVN": "THIÊN KHÍ DỰ BÁO",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぼうねんかい",
+        "kanji": "忘年会",
+        "kanjiVN": "VONG NIÊN HỘI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しんねんかい",
+        "kanji": "新年会",
+        "kanjiVN": "TÂN NIÊN HỘI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にじかい",
+        "kanji": "二次会",
+        "kanjiVN": "NHỊ THỨ HỘI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はっぴょうかい",
+        "kanji": "発表会",
+        "kanjiVN": "PHÁT BIỂU HỘI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たいかい",
+        "kanji": "大会",
+        "kanjiVN": "ĐẠI HỘI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おもて",
+        "kanji": "表",
+        "kanjiVN": "BIỂU",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うら",
+        "kanji": "裏",
+        "kanjiVN": "LÝ",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きず",
+        "kanji": "傷",
+        "kanjiVN": "THƯƠNG",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[お]としより",
+        "kanji": "[お]年寄り",
+        "kanjiVN": "NIÊN KÝ",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ながさ",
+        "kanji": "長さ",
+        "kanjiVN": "TRƯỜNG",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おもさ",
+        "kanji": "重さ",
+        "kanjiVN": "TRỌNG",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たかさ",
+        "kanji": "高さ",
+        "kanjiVN": "CAO",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おおきさ",
+        "kanji": "大きさ",
+        "kanjiVN": "ĐẠI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[－]びん",
+        "kanji": "[－]便",
+        "kanjiVN": "TIỆN",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "―ご",
+        "kanji": "－個",
+        "kanjiVN": "CÁ",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "―ほん （―ぽん、―ぼん）",
+        "kanji": "―本",
+        "kanjiVN": "BỔN",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "―はい （―ぱい、―ばい）",
+        "kanji": "―杯",
+        "kanjiVN": "BÔI",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～いじょう",
+        "kanji": "～以上",
+        "kanjiVN": "DĨ THƯỢNG",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～いか",
+        "kanji": "～以下",
+        "kanjiVN": "DĨ HẠ ~",
+        "lesson": 40,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あげます",
+        "kanji": "上げます",
+        "kanjiVN": "THƯỢNG",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さげます",
+        "kanji": "下げます",
+        "kanjiVN": "HẠ",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しんせつにします",
+        "kanji": "親切にします",
+        "kanjiVN": "THÂN THIẾT",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "めずらしい",
+        "kanji": "珍しい",
+        "kanjiVN": "TRÂN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おいわい",
+        "kanji": "お祝い",
+        "kanjiVN": "CHÚC",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おとしだま",
+        "kanji": "お年玉",
+        "kanjiVN": "NIÊN NGỌC",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "[お]みまい",
+        "kanji": "[お]見舞い",
+        "kanjiVN": "KIẾN VŨ",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きょうみ",
+        "kanji": "興味",
+        "kanjiVN": "HƯNG VỊ",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じょうほう",
+        "kanji": "情報",
+        "kanjiVN": "TÌNH BÁO",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぶんぽう",
+        "kanji": "文法",
+        "kanjiVN": "VĂN PHÁP",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はつおん",
+        "kanji": "発音",
+        "kanjiVN": "PHÁT ÂM",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さる",
+        "kanji": "猿",
+        "kanjiVN": "VIÊN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えはがき",
+        "kanji": "絵はがき",
+        "kanjiVN": "HỘI",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くつした",
+        "kanji": "靴下",
+        "kanjiVN": "NGOA HẠ",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "てぶくろ",
+        "kanji": "手袋",
+        "kanjiVN": "THỦ ĐẠI",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ようちえん",
+        "kanji": "幼稚園",
+        "kanjiVN": "ẤU TRĨ VIÊN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "だんぼう",
+        "kanji": "暖房",
+        "kanjiVN": "NOÃN PHÒNG",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "れいぼう",
+        "kanji": "冷房",
+        "kanjiVN": "LÃNH PHÒNG",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おんど",
+        "kanji": "温度",
+        "kanjiVN": "ÔN ĐỘ",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そふ",
+        "kanji": "祖父",
+        "kanjiVN": "TỔ PHỤ",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そぼ",
+        "kanji": "祖母",
+        "kanjiVN": "TỔ MẪU",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まご",
+        "kanji": "孫",
+        "kanjiVN": "TÔN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おまごさん",
+        "kanji": "お孫さん",
+        "kanjiVN": "TÔN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かんりにん",
+        "kanji": "管理人",
+        "kanjiVN": "QUẢN LÝ NHÂN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "このあいだい",
+        "kanji": "この間",
+        "kanjiVN": "GIAN",
+        "lesson": 41,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つつみます",
+        "kanji": "包みます",
+        "kanjiVN": "BAO",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わかします",
+        "kanji": "沸かします",
+        "kanjiVN": "PHẮT/PHI",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まぜます",
+        "kanji": "混ぜます",
+        "kanjiVN": "HỖN",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けいさんします",
+        "kanji": "計算します",
+        "kanjiVN": "KẾ TOÁN",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ならびます",
+        "kanji": "並びます",
+        "kanjiVN": "TỊNH",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じょうぶ[な]",
+        "kanji": "丈夫[な]",
+        "kanjiVN": "TRƯỢNG PHU",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "べんごし",
+        "kanji": "弁護士",
+        "kanjiVN": "BIỆN HỘ SĨ",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おんがくか",
+        "kanji": "音楽家",
+        "kanjiVN": "ÂM NHẠC GIA",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こどもたち",
+        "kanji": "子どもたち",
+        "kanjiVN": "TỬ",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しぜん",
+        "kanji": "自然",
+        "kanjiVN": "TỰ NHIÊN",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きょういく",
+        "kanji": "教育",
+        "kanjiVN": "GIÁO DỤC",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぶんか",
+        "kanji": "文化",
+        "kanjiVN": "VĂN HÓA",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しゃかい",
+        "kanji": "社会",
+        "kanjiVN": "XÃ HỘI",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せいじ",
+        "kanji": "政治",
+        "kanjiVN": "CHÍNH TRỊ",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほうりつ",
+        "kanji": "法律",
+        "kanjiVN": "PHÁP LUẬT",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せんそう",
+        "kanji": "戦争",
+        "kanjiVN": "CHIẾN TRANH",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "へいわ",
+        "kanji": "平和",
+        "kanjiVN": "BÌNH HÒA",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もくてき",
+        "kanji": "目的",
+        "kanjiVN": "MỤC ĐÍCH",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ろんぶん",
+        "kanji": "論文",
+        "kanjiVN": "LUẬN VĂN",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たのしみ",
+        "kanji": "楽しみ",
+        "kanjiVN": "LẠC",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せんぬき",
+        "kanji": "栓抜き",
+        "kanjiVN": "XUYÊN BẠT",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かんきり",
+        "kanji": "缶切り",
+        "kanjiVN": "PHẪU THIẾT",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かんづめ",
+        "kanji": "缶詰",
+        "kanjiVN": "PHẪU CẬT",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "のしぶくろ",
+        "kanji": "のし袋",
+        "kanjiVN": "ĐẠI",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たいおんけい",
+        "kanji": "体温計",
+        "kanjiVN": "THỂ ÔN KẾ",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ざいりょう",
+        "kanji": "材料",
+        "kanjiVN": "TÀI LIỆU",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いっしょうけんめい",
+        "kanji": "一生懸命",
+        "kanjiVN": "NHẤT SINH HUYỀN MỆNH",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こくれん",
+        "kanji": "国連",
+        "kanjiVN": "QUỐC LIÊN",
+        "lesson": 42,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふえます[ゆしゅつが～]",
+        "kanji": "増えます[輸出が～]",
+        "kanjiVN": "TĂNGTHÂU XUẤT ",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "へります[ゆしゅつが～]",
+        "kanji": "減ります[輸出が～]",
+        "kanjiVN": "GIẢMTHÂU XUẤT ",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あがります[ねだんが～]",
+        "kanji": "上がります[値段が～]",
+        "kanjiVN": "THƯỢNGTRỊ ĐOẠN ",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さがります[ねだんが～]",
+        "kanji": "下がります[値段が～]",
+        "kanjiVN": "HẠTRỊ ĐOẠN ",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きれます[ひもが～]",
+        "kanji": "切れます[ひもが～]",
+        "kanjiVN": "THIẾT",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おちます[にもつが～]",
+        "kanji": "落ちます[荷物が～]",
+        "kanjiVN": "LẠCHÀ VẬT ",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "へん[な]",
+        "kanji": "変[な]",
+        "kanjiVN": "BIẾN",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しあわせ[な]",
+        "kanji": "幸せ[な]",
+        "kanjiVN": "HẠNH",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "らく[な]",
+        "kanji": "楽[な]",
+        "kanjiVN": "LẠC/NHẠC",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やさしい",
+        "kanji": "優しい",
+        "kanjiVN": "ƯU",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひ",
+        "kanji": "火",
+        "kanjiVN": "HỎA",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いまにも",
+        "kanji": "今にも",
+        "kanjiVN": "KIM",
+        "lesson": 43,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なきます",
+        "kanji": "泣きます",
+        "kanjiVN": "KHẤP",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わらいます",
+        "kanji": "笑います",
+        "kanjiVN": "TIẾU",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ねむります",
+        "kanji": "眠ります",
+        "kanjiVN": "MIÊN",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かわきます　[シャツが～]",
+        "kanji": "乾きます",
+        "kanjiVN": "CAN",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すべります",
+        "kanji": "滑ります",
+        "kanjiVN": "HOẠT",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おきます  [じこが～]",
+        "kanji": "起きます[事故が～]",
+        "kanjiVN": "KHỞISỰ CỐ",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちょうせつします",
+        "kanji": "調節します",
+        "kanjiVN": "ĐIỀU TIẾT",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あんぜん[な]",
+        "kanji": "安全[な]",
+        "kanjiVN": "AN TOÀN",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きけん[な]",
+        "kanji": "危険[な]",
+        "kanjiVN": "NGUY HIỂM",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こい",
+        "kanji": "濃い",
+        "kanjiVN": "NỒNG",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うすい",
+        "kanji": "薄い",
+        "kanjiVN": "BẠC",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あつい",
+        "kanji": "厚い",
+        "kanjiVN": "HẬU",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふとい",
+        "kanji": "太い",
+        "kanjiVN": "THÁI",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほそい",
+        "kanji": "細い",
+        "kanjiVN": "TẾ",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くうき",
+        "kanji": "空気",
+        "kanjiVN": "KHÔNG KHÍ",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なみだ",
+        "kanji": "涙",
+        "kanjiVN": "LỆ",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わしょく",
+        "kanji": "和食",
+        "kanjiVN": "HÒA THỰC",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ようしょく",
+        "kanji": "洋食",
+        "kanjiVN": "DƯƠNG THỰC",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "りょう",
+        "kanji": "量",
+        "kanjiVN": "LƯỢNG",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "―ばい",
+        "kanji": "―倍",
+        "kanjiVN": "BỘI",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せんたくもの",
+        "kanji": "洗濯物",
+        "kanjiVN": "TẨY TRẠC VẬT",
+        "lesson": 44,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しんじます",
+        "kanji": "信じます",
+        "kanjiVN": "TÍN",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しらせます",
+        "kanji": "知らせます",
+        "kanjiVN": "TRI",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほしょうしょ",
+        "kanji": "保証書",
+        "kanjiVN": "BẢO CHỨNG THƯ",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "りょうしゅうしょ",
+        "kanji": "領収書",
+        "kanjiVN": "LÃNH THÂU THƯ",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ちゅうし",
+        "kanji": "中止",
+        "kanjiVN": "TRUNG CHỈ",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "てん",
+        "kanji": "点",
+        "kanjiVN": "ĐIỂM",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うめ",
+        "kanji": "梅",
+        "kanjiVN": "MAI",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "110はん",
+        "kanji": "110番",
+        "kanjiVN": "PHIÊN",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "119ばん",
+        "kanji": "119番",
+        "kanjiVN": "PHIÊN",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きゅうに",
+        "kanji": "急に",
+        "kanjiVN": "CẤP",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むりに",
+        "kanji": "無理に",
+        "kanjiVN": "VÔ LÍ",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いじょうです。",
+        "kanji": "以上です。",
+        "kanjiVN": "",
+        "lesson": 45,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わたします",
+        "kanji": "渡します",
+        "kanjiVN": "ĐỘ",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かえってきます",
+        "kanji": "帰って来ます",
+        "kanjiVN": "QUY LAI",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "でます　[バスが～]",
+        "kanji": "出ます[バスが～]",
+        "kanjiVN": "XUẤT",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とどきます　[にもつが～]",
+        "kanji": "届きます[荷物が～]",
+        "kanjiVN": "GIỚIHÀ VẬT",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にゅうがくします　[だいがくに～]",
+        "kanji": "入学します[大学に～]",
+        "kanjiVN": "NHẬP HỌCĐẠI HỌC",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そつぎょうします　[だいがくを～]",
+        "kanji": "卒業します[大学を～]",
+        "kanjiVN": "TỐT NGHIỆPĐẠI HỌC",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やきます",
+        "kanji": "焼きます",
+        "kanjiVN": "THIÊU",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やけます　[パンが～]　[にくが～]",
+        "kanji": "焼けます",
+        "kanjiVN": "THIÊU",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "るす",
+        "kanji": "留守",
+        "kanjiVN": "LƯU THỦ",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たくはいびん",
+        "kanji": "宅配便",
+        "kanjiVN": "TRẠCH PHỐI TIỆN",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "げんいん",
+        "kanji": "原因",
+        "kanjiVN": "NGUYÊN NHÂN",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～のところ",
+        "kanji": "～の所",
+        "kanjiVN": "SỞ",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はんとし",
+        "kanji": "半年",
+        "kanjiVN": "BÁN NIÊN",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たったいま",
+        "kanji": "たった今",
+        "kanjiVN": "KIM",
+        "lesson": 46,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ふきます [かぜが～]",
+        "kanji": "吹きます[風が～]",
+        "kanjiVN": "XÚYPHONG ",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もえます [ごみが～]",
+        "kanji": "燃えます",
+        "kanjiVN": "NHIÊN",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なくなります",
+        "kanji": "亡くなります",
+        "kanjiVN": "VONG",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あつまります [ひとが～]",
+        "kanji": "集まります[人が～]",
+        "kanjiVN": "TẬPNHÂN",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わかれます [ひとが～]",
+        "kanji": "別れます[人が～]",
+        "kanjiVN": "BIỆTNHÂN ",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "します　[おと／こえが～]　[あじが～]　[においが～]",
+        "kanji": "します[音／声が～][味が～]",
+        "kanjiVN": "ÂM/THANHVỊ",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きびしい",
+        "kanji": "厳しい",
+        "kanjiVN": "NGHIÊM",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こわい",
+        "kanji": "怖い",
+        "kanjiVN": "BỐ",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じっけん",
+        "kanji": "実験",
+        "kanjiVN": "THỰC NGHIỆM",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じんこう",
+        "kanji": "人口",
+        "kanjiVN": "NHÂN KHẨU",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かがく",
+        "kanji": "科学",
+        "kanjiVN": "KHOA HỌC",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いがく",
+        "kanji": "医学",
+        "kanjiVN": "Y HỌC",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぶんがく",
+        "kanji": "文学",
+        "kanjiVN": "VĂN HỌC",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きゅうきゅうしゃ",
+        "kanji": "救急車",
+        "kanjiVN": "CỨU CẤP XA",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さんせい",
+        "kanji": "賛成",
+        "kanjiVN": "TÁN THÀNH",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はんたい",
+        "kanji": "反対",
+        "kanjiVN": "PHẢN ĐỐI",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "だいとうりょう",
+        "kanji": "大統領",
+        "kanjiVN": "ĐẠI THỐNG LÃNH",
+        "lesson": 47,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おろします",
+        "kanji": "降ろします,下ろします",
+        "kanjiVN": "GIÁNG, HẠ",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とどけます",
+        "kanji": "届けます",
+        "kanjiVN": "GIỚI",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せわをします",
+        "kanji": "世話をします",
+        "kanjiVN": "THẾ THOẠI",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ろくおんします",
+        "kanji": "録音します",
+        "kanjiVN": "LỤC ÂM",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いや[な]",
+        "kanji": "嫌[な]",
+        "kanjiVN": "HIỀM",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゅく",
+        "kanji": "塾",
+        "kanjiVN": "THỤC",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せいと",
+        "kanji": "生徒",
+        "kanjiVN": "SINH ĐỒ",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゆうに",
+        "kanji": "自由に",
+        "kanjiVN": "TỰ DO",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～かん",
+        "kanji": "～間",
+        "kanjiVN": "GIAN",
+        "lesson": 48,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "りようします",
+        "kanji": "利用します",
+        "kanjiVN": "LỢI DỤNG",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つとめます　[かいしゃに～]　",
+        "kanji": "勤めます[会社に～]",
+        "kanjiVN": "HỘI XÃ CẦN",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かけます　[いすに～]",
+        "kanji": "掛けます[いすに～]",
+        "kanjiVN": "QUẢI",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すごします",
+        "kanji": "過ごします",
+        "kanjiVN": "QUÁ",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "めしあがります",
+        "kanji": "召し上がります",
+        "kanjiVN": "TRIỆU THƯỢNG",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ごらんになります",
+        "kanji": "ご覧になります",
+        "kanjiVN": "LÃM",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ごぞんじです",
+        "kanji": "ご存じです",
+        "kanjiVN": "TỒN",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "りょかん",
+        "kanji": "旅館",
+        "kanjiVN": "LỮ QUÁN",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "バスてい",
+        "kanji": "バス停",
+        "kanjiVN": "ĐÌNH",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おくさま",
+        "kanji": "奥様",
+        "kanjiVN": "ÁO DẠNG",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "～さま",
+        "kanji": "～様",
+        "kanjiVN": "DẠNG",
+        "lesson": 49,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まいります",
+        "kanji": "参ります",
+        "kanjiVN": "THAM",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もうします",
+        "kanji": "申します",
+        "kanjiVN": "THÂN",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はいけんします",
+        "kanji": "拝見します",
+        "kanjiVN": "BÁI KIẾN",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぞんじます",
+        "kanji": "存じます",
+        "kanjiVN": "TỒN",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うかがいます",
+        "kanji": "伺います",
+        "kanjiVN": "TÝ/TỬ",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おめにかかります",
+        "kanji": "お目にかかります",
+        "kanjiVN": "MỤC",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いれます [コーヒーを～]",
+        "kanji": "入れます",
+        "kanjiVN": "NHẬP",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "よういします",
+        "kanji": "用意します",
+        "kanjiVN": "DỤNG Ý",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わたくし",
+        "kanji": "私",
+        "kanjiVN": "TƯ",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さらいしゅう",
+        "kanji": "再来週",
+        "kanjiVN": "TÁI LAI CHU",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さらいげつ",
+        "kanji": "再来月",
+        "kanjiVN": "TÁI LAI NGUYỆT",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さらいねん",
+        "kanji": "再来年",
+        "kanjiVN": "TÁI LAI NIÊN",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はじめに",
+        "kanji": "初めに",
+        "kanjiVN": "SƠ",
+        "lesson": 50,
+        "lessonGroup": "kanji",
+        "scope": "N4",
+        "book": "Minna No Nihongo"
+    }
+]
