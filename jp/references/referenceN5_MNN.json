@@ -1,0 +1,6221 @@
+[
+    {
+        "vocabulary": "国・人・ことば ",
+        "romaji": "kuni . nin. kotoba ",
+        "meanVN": "Nước, người & ngôn ngữ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "国 ",
+        "romaji": "kuni ",
+        "meanVN": "Nước",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "アメリカ",
+        "romaji": "amerika ",
+        "meanVN": "Mỹ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イギリス",
+        "romaji": "igirisu ",
+        "meanVN": "Anh",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イタリア",
+        "romaji": "itaria ",
+        "meanVN": "Ý",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イラン",
+        "romaji": "iran ",
+        "meanVN": "Iran",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "インド",
+        "romaji": "indo ",
+        "meanVN": "Ấn Độ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "インドネシア",
+        "romaji": "indoneshia ",
+        "meanVN": "Indonesia",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "エジプト",
+        "romaji": "ejiputo ",
+        "meanVN": "Ai cập",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "オーストラリア",
+        "romaji": "ōsutoraria ",
+        "meanVN": "Úc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "カナダ",
+        "romaji": "kanada ",
+        "meanVN": "Canada",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "韓国",
+        "romaji": "kankoku ",
+        "meanVN": "Hàn Quốc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "サウジアラビア",
+        "romaji": "saujiarabia ",
+        "meanVN": "Ả-rập-Xê-út",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "シンガポール  ",
+        "romaji": "shingapōru ",
+        "meanVN": "Singapore",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スペイン",
+        "romaji": "supein ",
+        "meanVN": "Tây Ban Nha",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "タイ",
+        "romaji": "tai ",
+        "meanVN": "Thái Lan",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中国",
+        "romaji": "chuugoku ",
+        "meanVN": "Trung Quốc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ドイツ  ",
+        "romaji": "doitsu ",
+        "meanVN": "Đức",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "日本 ",
+        "romaji": "nippon ",
+        "meanVN": "Nhật Bản",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フランス",
+        "romaji": "furansu ",
+        "meanVN": "Pháp",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フィリピン ",
+        "romaji": "firipin ",
+        "meanVN": "Philippine",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ブラジル",
+        "romaji": "burajiru ",
+        "meanVN": "Braxin",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ベトナム",
+        "romaji": "betonamu ",
+        "meanVN": "Việt Nam",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "マレーシア ",
+        "romaji": "marēshia ",
+        "meanVN": "Malaysia",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "メキシコ ",
+        "romaji": "mekishiko ",
+        "meanVN": "Mexico",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ロシア ",
+        "romaji": "roshia ",
+        "meanVN": "Nga",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "人",
+        "romaji": "hito ",
+        "meanVN": "Người ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "アメリカ人",
+        "romaji": "amerika jin ",
+        "meanVN": "Người Mỹ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イギリス人",
+        "romaji": "igirisu jin ",
+        "meanVN": "Người Anh",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イタリア人",
+        "romaji": "itaria jin ",
+        "meanVN": "Người Ý",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イラン人",
+        "romaji": "iran jin ",
+        "meanVN": "Người Iran",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "インド人",
+        "romaji": "indo jin ",
+        "meanVN": "Người Ấn Độ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "インドネシア人",
+        "romaji": "indoneshia jin ",
+        "meanVN": "Người Indonesia",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "エジプト人",
+        "romaji": "ejiputo jin ",
+        "meanVN": "Người Ai cập",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "オーストラリア人",
+        "romaji": "ōsutoraria jin ",
+        "meanVN": "Người Úc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "カナダ人",
+        "romaji": "kanada jin ",
+        "meanVN": "Người Canada",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "韓国人",
+        "romaji": "kankoku jin ",
+        "meanVN": "Người Hàn Quốc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "サウジアラビア人",
+        "romaji": "saujiarabia jin ",
+        "meanVN": "Người Ả-rập-Xê-út",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "シンガポール人",
+        "romaji": "shingapōru jin ",
+        "meanVN": "Người Singapore",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スペイン人",
+        "romaji": "supein jin ",
+        "meanVN": "Người Tây Ban Nha",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "タイ人",
+        "romaji": "tai jin ",
+        "meanVN": "Người Thái Lan",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中国人",
+        "romaji": "chuugokujin ",
+        "meanVN": "Người Trung Quốc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ドイツ人",
+        "romaji": "doitsu jin ",
+        "meanVN": "Người Đức",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "日本人",
+        "romaji": "nipponjin ",
+        "meanVN": "Người Nhật Bản",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フランス人",
+        "romaji": "furansu jin ",
+        "meanVN": "Người Pháp",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フィリピン人",
+        "romaji": "firipin jin ",
+        "meanVN": "Người Philippine",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ブラジル人",
+        "romaji": "burajiru jin ",
+        "meanVN": "Người Braxin",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ベトナム人",
+        "romaji": "betonamu jin ",
+        "meanVN": "Người Việt Nam",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "マレーシア人",
+        "romaji": "marēshia jin ",
+        "meanVN": "Người Malaysia",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "メキシコ人",
+        "romaji": "mekishiko jin ",
+        "meanVN": "Người Mexico",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ロシア人",
+        "romaji": "roshia jin ",
+        "meanVN": "Người Nga",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ことば",
+        "romaji": "kotoba ",
+        "meanVN": "Ngôn ngữ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "英語",
+        "romaji": "eigo ",
+        "meanVN": "Tiếng Anh",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "英語",
+        "romaji": "eigo ",
+        "meanVN": "Tiếng Anh",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "イタリア語",
+        "romaji": "itaria go ",
+        "meanVN": "Tiếng Ý",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ペルシャ語",
+        "romaji": "perusha go ",
+        "meanVN": "Tiếng Ba Tư",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ヒンディー語",
+        "romaji": "hindī go ",
+        "meanVN": "Tiếng Hin-đi",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "インドネシア語",
+        "romaji": "indoneshia go ",
+        "meanVN": "Tiếng Indonesisa",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "アラビア語",
+        "romaji": "arabia go ",
+        "meanVN": "Tiếng Ả-Rập",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "英語",
+        "romaji": "eigo ",
+        "meanVN": "Tiếng Anh",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フランス語",
+        "romaji": "furansugo ",
+        "meanVN": "Tiếng Pháp",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "韓国語",
+        "romaji": "kankoku go ",
+        "meanVN": "Tiếng Hàn Quốc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "アラビア語",
+        "romaji": "arabia go ",
+        "meanVN": "Tiếng Ả-rập",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "英語",
+        "romaji": "eigo ",
+        "meanVN": "Tiếng Anh",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スペイン語",
+        "romaji": "supein go ",
+        "meanVN": "Tiếng Tây Ban Nha",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "タイ語 ",
+        "romaji": "tai go ",
+        "meanVN": "Tiếng Thái",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中国語",
+        "romaji": "chuugoku go ",
+        "meanVN": "Tiếng Trung Quốc",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ドイツ語",
+        "romaji": "doitsu go ",
+        "meanVN": "Tiếng Đức",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "日本語",
+        "romaji": "nihongo ",
+        "meanVN": "Tiếng Nhật",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フランス語",
+        "romaji": "furansugo ",
+        "meanVN": "Tiếng Pháp",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フィリピン語",
+        "romaji": "firipin go ",
+        "meanVN": "Tiếng Philippin",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ポルトガル語",
+        "romaji": "porutogaru go ",
+        "meanVN": "Tiếng Bồ Đào Nha",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ベトナム語",
+        "romaji": "betonamu go ",
+        "meanVN": "Tiếng Việt ",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "マレーシア語",
+        "romaji": "marēshia go ",
+        "meanVN": "Tiếng Mã Lai",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スペイン",
+        "romaji": "supein ",
+        "meanVN": "Tiếng Tây Ban Nha",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ロシア語",
+        "romaji": "roshia go ",
+        "meanVN": "Tiếng Nga",
+        "lesson": 1,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "名前",
+        "romaji": "namae ",
+        "meanVN": "Họ (Cách gọi tên người nhật)",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "佐藤",
+        "romaji": "satou ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "鈴木",
+        "romaji": "suzuki ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "高橋",
+        "romaji": "takahashi ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "田中",
+        "romaji": "tanaka ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "渡辺",
+        "romaji": "watanabe ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "伊藤",
+        "romaji": "itou ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中村",
+        "romaji": "nakamura ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "山本",
+        "romaji": "yamamoto ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "小林",
+        "romaji": "kobayashi ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "齋藤",
+        "romaji": "saitou ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "加藤",
+        "romaji": "katou ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "吉田",
+        "romaji": "yoshida ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "山田",
+        "romaji": "yamada ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "佐々木",
+        "romaji": "sasaki ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "松本",
+        "romaji": "matsumoto ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "山口",
+        "romaji": "yamaguchi ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "木村",
+        "romaji": "kimura ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "井上",
+        "romaji": "inoue ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "阿部",
+        "romaji": "abe ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "林",
+        "romaji": "hayashi ",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "chào hỏi",
+        "romaji": "",
+        "meanVN": "",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "初めまして",
+        "romaji": "Hajime mashite ",
+        "meanVN": "Trong công việc, khi lần đầu gặp nhau, người Nhật thường chào và tiến hành trao đổi danh thiếp",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほんの気持ちです。",
+        "romaji": "honno kimochi desu. ",
+        "meanVN": "Khi chuyển nhà đến một địa điểm mới, người Nhật thường đến chào hỏi hàng xóm và mang theo một món quà nhỏ để tặng như khăn tắm, xà phòng, bánh kẹo,v.v...(khi tặng quà cho người khác thường nói kèm theo câu này)",
+        "lesson": 2,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "デパート  ",
+        "romaji": "depāto",
+        "meanVN": "CỬA HÀNG BÁCH HÓA",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "屋上 遊園地",
+        "romaji": "okujou  yuuen chi",
+        "meanVN": "Công viên giải trí",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "8階 食堂・催し物会場",
+        "romaji": "8 kai shokudou. moyooshimono kaijou ",
+        "meanVN": "Nhà ăn, Phòng tổ chức sự kiện",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "7階 時計・眼鏡・カメラ",
+        "romaji": "7 kai tokei. megane. kamera ",
+        "meanVN": "Đồng hồ, Kính mắt, Máy ảnh",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "6階 スポーツ用品・旅行用品",
+        "romaji": "6 kai supōtsu youhin. ryokou youhin ",
+        "meanVN": "Dụng cụ thể thao, Đồ du lịch",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "5階 子ども服・おもちゃ・本・文房具",
+        "romaji": "5 kai kodomo fuku. omocha . hon. bunbougu ",
+        "meanVN": "Quần áo Trẻ em, Đồ chơi, Sách, Văn phòng phẩm",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "4階 家具・食器・電気製品",
+        "romaji": "4 kai kagu. shokki. denki seihin ",
+        "meanVN": "Dụng cụ gia đình, Bát đũa, Đồ điện",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "3階 紳士服",
+        "romaji": "3 kai shinshi fuku ",
+        "meanVN": "Quần áo nam",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "2階 婦人服",
+        "romaji": "2 kai fujin fuku ",
+        "meanVN": "Quần áo nữ",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "1階 靴・かばん・アクセサリー・化粧品",
+        "romaji": "1 kai kutsu. kaban. akusesarī. keshou hin ",
+        "meanVN": "Giầy, Cặp sách, Đồ trang sức, Mỹ phẩm",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "B1階 食料品",
+        "romaji": "B 1 kai shokuryou hin ",
+        "meanVN": "Lương thực- thực phẩm",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "B2階 駐車場",
+        "romaji": "B 2 kai chuusha jou",
+        "meanVN": "Bãi đỗ xe",
+        "lesson": 3,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "電話・手紙",
+        "romaji": "denwa-tegami",
+        "meanVN": "ĐIỆN THOẠI & THƯ TÍN",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "A.",
+        "romaji": "",
+        "meanVN": "Cách gọi điện thoại công cộng",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "1",
+        "romaji": "",
+        "meanVN": "Nhấc ống nghe",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "2",
+        "romaji": "",
+        "meanVN": "Đút tiền hoặc thẻ vào điện thoại",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "3",
+        "romaji": "",
+        "meanVN": "Ấn số",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "4",
+        "romaji": "",
+        "meanVN": "Dập máy ống nghe",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "5",
+        "romaji": "",
+        "meanVN": "Lấy lại tiền thừa (nếu có) hoặc thẻ điện thoại",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Các máy điện thoại công công chỉ dùng được thẻ, hoặc các đồng xu 10 yên và 100 yên. Nếu cho đồng 100 yên vào thì máy sẽ không trả lại tiền thừa",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Nếu máy điện thoại có nút bắt đầu thì ấn nút này sau thao tác 3 ở trên",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "B.",
+        "romaji": "",
+        "meanVN": "Các số điện thoại đặc biệt",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "110 : 警察署",
+        "romaji": "keisatsu sho ",
+        "meanVN": "Gọi cảnh sát",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "119 : 消防署",
+        "romaji": "shoubousho ",
+        "meanVN": "Gọi cứu hỏa",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "117 :  時報",
+        "romaji": "jihou ",
+        "meanVN": "Dịch vụ hỏi giờ",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "177 : 天気予報",
+        "romaji": "tenki yohou ",
+        "meanVN": "Dịch vụ thông tin dự báo thời tiết",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "104 : 電話番号案内",
+        "romaji": "denwa bangou annai ",
+        "meanVN": "Dich vụ hướng dẫn số điện thoại",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "C.",
+        "romaji": "",
+        "meanVN": "Cách viết địa chỉ",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "〒658-0063",
+        "romaji": "",
+        "meanVN": "điện thoại",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "兵庫県",
+        "romaji": "",
+        "meanVN": "tỉnh",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "コウベハイツ",
+        "romaji": "",
+        "meanVN": "tên tòa nhà",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "神戸市",
+        "romaji": "",
+        "meanVN": "thành phố",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "405号",
+        "romaji": "",
+        "meanVN": "số phòng",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中央区",
+        "romaji": "",
+        "meanVN": "quận ",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "三宮",
+        "romaji": "",
+        "meanVN": "khu phố",
+        "lesson": 4,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "祝祭日",
+        "romaji": "",
+        "meanVN": "NGÀY NGHỈ QUỐC GIA",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "1月1日",
+        "romaji": "元日",
+        "meanVN": "Ngày mồng một tết",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "1月2月曜日*",
+        "romaji": "成人の日",
+        "meanVN": "Ngày Trưởng thành",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "2月11日",
+        "romaji": "建国記念の日",
+        "meanVN": "Ngày Quốc khánh (kỉ niệm kiến quốc)",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "3月20日**",
+        "romaji": "春分の日",
+        "meanVN": "Ngày Xuân phân",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "4月29日",
+        "romaji": "昭和の日",
+        "meanVN": "Ngày kỉ niệm Thiên Hoàng Showa",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "5月3日",
+        "romaji": "憲法記念の碑",
+        "meanVN": "Ngày kỉ niệm Hiến Pháp",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "5月4日",
+        "romaji": "みどりの日",
+        "meanVN": "Ngày Màu xanh",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "5月5日",
+        "romaji": "こどもの日",
+        "meanVN": "Ngày Trẻ em",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "7月第3月曜日***",
+        "romaji": "海の日",
+        "meanVN": "Ngày Biển",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "9月第3月月曜日***",
+        "romaji": "敬老の日",
+        "meanVN": "Ngày Kính lão",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "9月23日",
+        "romaji": "秋分の日",
+        "meanVN": "Ngày Thu phân",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "10月第2月曜日",
+        "romaji": "体育の日",
+        "meanVN": "Ngày Thể thao",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "11月3日",
+        "romaji": "文化の日",
+        "meanVN": "Ngày Văn hóa",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "11月23日",
+        "romaji": "勤労感謝の日",
+        "meanVN": "Ngày Cảm tạ Lao động",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "12月23日",
+        "romaji": "天皇誕生日",
+        "meanVN": "Sinh nhật của Thiên Hoàng",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Thay đổi theo năm",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "** Thứ hai củ tuần thứ hai",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "*** Thứ hai của tuần thứ ba",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Nếu một ngày nghỉ quốc gia rơi vào ngày chủ nhật thì ngày thứ hai liền sau sẽ được nghỉ bù. Có một kì nghỉ Liền từ ngày 29 tháng 4 đến ngày mồng 5 tháng 5, được gọi là 「ゴールデンウィーク」 (Tuần lễ vàng [Golden Week])」. Một số công ty cho nhân viên nghỉ suốt cả tuần.",
+        "lesson": 5,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "食べ物",
+        "romaji": "tabemono ",
+        "meanVN": "THỨC ĂN",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "野菜",
+        "romaji": "yasai ",
+        "meanVN": "Rau",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "きゅうり",
+        "romaji": "kyuuri ",
+        "meanVN": "Dưa chuột ",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "トマト",
+        "romaji": "tomato ",
+        "meanVN": "cà chua",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なす",
+        "romaji": "nasu ",
+        "meanVN": "cà",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まめ",
+        "romaji": "mame ",
+        "meanVN": "đậu",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "キャベツ",
+        "romaji": "kyabetsu ",
+        "meanVN": "bắp cải",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ねぎ",
+        "romaji": "negi ",
+        "meanVN": "hành",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はくさい",
+        "romaji": "ha kusai ",
+        "meanVN": "rau cải bẹ trắng",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほうれんそう",
+        "romaji": "hourensou ",
+        "meanVN": "rau bina",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "レタス",
+        "romaji": "retasu ",
+        "meanVN": "rau diếp",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "じゃがいも",
+        "romaji": "jagaimo ",
+        "meanVN": "khoai tây",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "だいこん",
+        "romaji": "daikon ",
+        "meanVN": "củ cải",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たまねぎ",
+        "romaji": "tamanegi ",
+        "meanVN": "củ hành",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "にんじん",
+        "romaji": "ninjin ",
+        "meanVN": "cà rốt",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "果物",
+        "romaji": "kudamono ",
+        "meanVN": "hoa quả",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いちご",
+        "romaji": "ichigo ",
+        "meanVN": "dâu tây",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もも",
+        "romaji": "momo ",
+        "meanVN": "đào",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すいか",
+        "romaji": "suika ",
+        "meanVN": "dưa hấu",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぶどう",
+        "romaji": "budou ",
+        "meanVN": "nho",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "なし",
+        "romaji": "nashi ",
+        "meanVN": "lê",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かき",
+        "romaji": "kaki ",
+        "meanVN": "hồng",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みかん",
+        "romaji": "mikan ",
+        "meanVN": "quýt",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "りんご",
+        "romaji": "ringo ",
+        "meanVN": "táo",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "バナナ",
+        "romaji": "banana ",
+        "meanVN": "chuối",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "肉",
+        "romaji": "niku ",
+        "meanVN": "thịt ",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぎゅうにく",
+        "romaji": "gyuuniku ",
+        "meanVN": "thịt bò",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "とりにく",
+        "romaji": "tori niku ",
+        "meanVN": "thịt gà",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぶたにく",
+        "romaji": "buta ni ku ",
+        "meanVN": "thịt lợn",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ソーセージ",
+        "romaji": "sōsēji ",
+        "meanVN": "xúc xích",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ハム",
+        "romaji": "hamu ",
+        "meanVN": "giò, giăm bông",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "魚",
+        "romaji": "sakana ",
+        "meanVN": "cá",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あじ",
+        "romaji": "aji ",
+        "meanVN": "cá sòng",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いわじ",
+        "romaji": "iwa ji ",
+        "meanVN": "cá trích, cá xác-đin",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さば",
+        "romaji": "saba ",
+        "meanVN": "cá thu",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さんま",
+        "romaji": "sanma ",
+        "meanVN": "cá thu đao",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "さけ",
+        "romaji": "sake ",
+        "meanVN": "cá hồi ",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "まぐろ",
+        "romaji": "maguro ",
+        "meanVN": "cá ngừ",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たい",
+        "romaji": "tai ",
+        "meanVN": "cá tráp",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たら",
+        "romaji": "tara ",
+        "meanVN": "cá tuyết",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えび",
+        "romaji": "ebi ",
+        "meanVN": "tôn",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かに",
+        "romaji": "kani ",
+        "meanVN": "cua",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "いか",
+        "romaji": "ika ",
+        "meanVN": "mực",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たこ",
+        "romaji": "tako ",
+        "meanVN": "mựa phủ, bạch tuột",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こめ",
+        "romaji": "kome ",
+        "meanVN": "gạo",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たまご",
+        "romaji": "tama go ",
+        "meanVN": "trứng",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かい",
+        "romaji": "kai ",
+        "meanVN": "sò, ngạo",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Người Nhật nhập khẩu trên một nửa lượng đồ ăn của mình. Tỉ lệ tự cấp đối với một số mặt hàng lương thực- thực phẩm như sau: ngũ cốc 29%, rau 86%, hoa quả 47%, thịt 55%, thủy sản 70% (theo số liệu năm 1996 của Bộ Nông nghiệp và Thủy sản Nhật). Trong số các loại ngũ cốc thì chỉ có gạo có tỉ lệ tự cấp đạt 100%.",
+        "lesson": 6,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "家族",
+        "romaji": "kazoku ",
+        "meanVN": "GIA ĐÌNH",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "私の家族",
+        "romaji": "watashi no kazoku ",
+        "meanVN": "Gia đình của tôi",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "祖母",
+        "romaji": "sobo ",
+        "meanVN": "bà ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "母",
+        "romaji": "haha ",
+        "meanVN": "mẹ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "妹",
+        "romaji": "imouto ",
+        "meanVN": "em gái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "祖父",
+        "romaji": "sofu ",
+        "meanVN": "ông",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "父",
+        "romaji": "chichi ",
+        "meanVN": "bố",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "弟",
+        "romaji": "otouto ",
+        "meanVN": "em trai",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "姉",
+        "romaji": "ane ",
+        "meanVN": "chị gái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "兄",
+        "romaji": "ani ",
+        "meanVN": "anh trai",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "祖父母",
+        "romaji": "sofubo ",
+        "meanVN": "ông bà",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "両親",
+        "romaji": "ryoushin ",
+        "meanVN": "bố mẹ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "兄弟",
+        "romaji": "kyoudai ",
+        "meanVN": "anh em",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つま",
+        "romaji": "tsuma ",
+        "meanVN": "vợ ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "（おっと）",
+        "romaji": "(otto) ",
+        "meanVN": "chồng",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "娘",
+        "romaji": "musume ",
+        "meanVN": "con gái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "わたし",
+        "romaji": "watashi ",
+        "meanVN": "tôi ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "息子",
+        "romaji": "musuko ",
+        "meanVN": "con trai",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "夫婦",
+        "romaji": "fuufu ",
+        "meanVN": "vợ chồng",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "子ども",
+        "romaji": "kodomo ",
+        "meanVN": "con cái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "田中さんの家族",
+        "romaji": "tanaka san no kazoku ",
+        "meanVN": "Gia đình anh/chị Tanaka",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おばあさん",
+        "romaji": "obaasan ",
+        "meanVN": "bà ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お母さん",
+        "romaji": "okaasan ",
+        "meanVN": "mẹ ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "妹さん",
+        "romaji": "imouto san ",
+        "meanVN": "em gái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おじいさん",
+        "romaji": "ojiisan ",
+        "meanVN": "ông ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お父さん",
+        "romaji": "otousan ",
+        "meanVN": "bố ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "弟さん",
+        "romaji": "otouto san ",
+        "meanVN": "em trai ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "奥さん",
+        "romaji": "okusan ",
+        "meanVN": "vợ ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "（ご主人）",
+        "romaji": "(go shujin) ",
+        "meanVN": "(chồng)",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "娘さん",
+        "romaji": "musume san ",
+        "meanVN": "con gái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "田中さん",
+        "romaji": "tanaka san ",
+        "meanVN": "anh/chị Tanaka",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "息子さん",
+        "romaji": "musuko san ",
+        "meanVN": "con trai ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お姉さん",
+        "romaji": "o neesan ",
+        "meanVN": "chị gái",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お兄さん",
+        "romaji": "o niisan ",
+        "meanVN": "anh trai",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ご両親",
+        "romaji": "go ryoushin ",
+        "meanVN": "bố mẹ ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ご兄弟",
+        "romaji": "go kyoudai ",
+        "meanVN": "anh em",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ご夫婦",
+        "romaji": "go fuufu ",
+        "meanVN": "vợ chồng ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お子さん",
+        "romaji": "okosan ",
+        "meanVN": "con cái ",
+        "lesson": 7,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "色・味",
+        "romaji": "iro. aji ",
+        "meanVN": "MÀU & VỊ",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "色",
+        "romaji": "iro ",
+        "meanVN": "Màu",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "白",
+        "romaji": "shiro ",
+        "meanVN": "Trắng",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "黒",
+        "romaji": "kuro ",
+        "meanVN": "Đen",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "赤",
+        "romaji": "aka ",
+        "meanVN": "Đỏ",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "青",
+        "romaji": "ao ",
+        "meanVN": "Xanh da trời",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "緑",
+        "romaji": "midori ",
+        "meanVN": "Xanh lá cây",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "紫",
+        "romaji": "murasaki ",
+        "meanVN": "Tím",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "黄色",
+        "romaji": "kiiro ",
+        "meanVN": "Vàng",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "茶色",
+        "romaji": "chairo ",
+        "meanVN": "Nâu",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ピンク",
+        "romaji": "pinku ",
+        "meanVN": "Hồng",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "オレンジ",
+        "romaji": "orenji ",
+        "meanVN": "Da cam",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "グレー",
+        "romaji": "gurē ",
+        "meanVN": "Xám",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ベージュ",
+        "romaji": "bēju ",
+        "meanVN": " (Màu) be",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "味",
+        "romaji": "aji ",
+        "meanVN": "Vị",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "甘い",
+        "romaji": "amai ",
+        "meanVN": "ngọt",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "辛い",
+        "romaji": "tsurai ",
+        "meanVN": "cay",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "苦い",
+        "romaji": "nigai ",
+        "meanVN": "đắng",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "塩辛い",
+        "romaji": "shiokarai ",
+        "meanVN": "mặn",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "酸っぱい",
+        "romaji": "suppai ",
+        "meanVN": "chua",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "濃い",
+        "romaji": "koi ",
+        "meanVN": "đậm",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "薄い",
+        "romaji": "usui ",
+        "meanVN": "nhạt ",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "春・夏・秋・冬",
+        "romaji": "haru. natsu. aki. fuyu ",
+        "meanVN": "xuân, hạ, thu, đông",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Ở Nhật Bản có bốn mùa là mùa xuân (tháng 3, 4, 5), mùa hè (tháng 6, 7, 8), mùa thu (tháng 9, 10, 11) và mùa đông (tháng 12, 1, 2). Nhiệt độ trung bình tuy có khác nhau tùy theo địa điểm, nhưng sự biến đổi của nhiệt độ thì tương đối giống nhau, nóng nhất là tháng 8, và lạnh nhất là tháng 1, 2. Dựa theo  sự thay đổi nhiệt độ này mà người ta cảm nhận \"mùa hè nóng\", \"mùa thu mát\", \"mùa đông lạnh\" và \"mùa xuân ấm\".",
+        "lesson": 8,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "音楽・スポーツ・映画",
+        "romaji": "ongaku. supōtsu. eiga ",
+        "meanVN": "ÂM NHẠC, THỂ THAO & ĐIỆN ẢNH",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "音楽　",
+        "romaji": "ongaku ",
+        "meanVN": "Âm nhạc",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ポップス",
+        "romaji": "poppusu ",
+        "meanVN": "nhạc pop",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ロック",
+        "romaji": "rokku ",
+        "meanVN": "nhạc rock",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ジャズ",
+        "romaji": "jazu ",
+        "meanVN": "nhạc jazz",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ラテン",
+        "romaji": "raten ",
+        "meanVN": "nhạc Châu Mỹ Latin",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "クラシック",
+        "romaji": "kurashikku ",
+        "meanVN": "nhạc cổ điển",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "民謡",
+        "romaji": "minyou ",
+        "meanVN": "dân ca",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "演歌",
+        "romaji": "enka ",
+        "meanVN": "enka (một thể loại ba₫lát của Nhật)",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ミュージカル",
+        "romaji": "myūjikaru ",
+        "meanVN": "ca kịch",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "オペラ",
+        "romaji": "opera ",
+        "meanVN": "ô-pê-ra",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "映画",
+        "romaji": "eiga ",
+        "meanVN": "Điện ảnh",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "SF",
+        "romaji": "SF ",
+        "meanVN": "phim khoa học viễn tưởng (SF: science fiction)",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ホラー",
+        "romaji": "horā ",
+        "meanVN": "phim kinh dị",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "アニメ",
+        "romaji": "anime ",
+        "meanVN": "phim hoạt hình",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ドキュメンタリー",
+        "romaji": "dokyumentarī ",
+        "meanVN": "phim tài liệu",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "恋愛",
+        "romaji": "renai ",
+        "meanVN": "phim tình yêu",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ミステリー",
+        "romaji": "misuterī ",
+        "meanVN": "phim ly kì, bí ẩn",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "文芸",
+        "romaji": "bungei ",
+        "meanVN": "phim văn nghệ",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "戦争",
+        "romaji": "sensou ",
+        "meanVN": "phim chiến tranh",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "アクション",
+        "romaji": "akushon ",
+        "meanVN": "phim hành động",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "喜劇",
+        "romaji": "kigeki ",
+        "meanVN": "phim hài",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スポーツ",
+        "romaji": "supōtsu ",
+        "meanVN": "thể thao",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ソフトボール",
+        "romaji": "sofutobōru ",
+        "meanVN": "soft-ball (một môn thể thao tựa như bóng chày)",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "サッカー",
+        "romaji": "sakkā ",
+        "meanVN": "bóng đá",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ラグビー",
+        "romaji": "ragubī ",
+        "meanVN": "bóng bầu dục",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "バレーボール",
+        "romaji": "barēbōru ",
+        "meanVN": "bóng chuyền",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "バスケットボール",
+        "romaji": "basukettobōru ",
+        "meanVN": "bóng rổ",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "テニス",
+        "romaji": "tenisu ",
+        "meanVN": "quần vợt",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ボーリング",
+        "romaji": "bōringu ",
+        "meanVN": "bowling",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スキー",
+        "romaji": "sukī ",
+        "meanVN": "trượt tuyết",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スケート",
+        "romaji": "sukēto ",
+        "meanVN": "trượt băng",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "野球",
+        "romaji": "yakyuu ",
+        "meanVN": "bóng chày",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "卓球/ピンポン",
+        "romaji": "takkyuu / pinpon ",
+        "meanVN": "bóng bàn",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "相撲",
+        "romaji": "sumou ",
+        "meanVN": "vật Sumo",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "柔道",
+        "romaji": "juudou ",
+        "meanVN": "võ Judo",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "剣道",
+        "romaji": "kendou ",
+        "meanVN": "đấu kiếm",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "水泳",
+        "romaji": "suiei ",
+        "meanVN": "bơi lội",
+        "lesson": 9,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うちの中",
+        "romaji": "uchi no naka ",
+        "meanVN": "TRONG NHÀ",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "玄関",
+        "romaji": "genkan ",
+        "meanVN": "cửa ra vào",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "トイレ",
+        "romaji": "toire ",
+        "meanVN": "toa-lét, phòng vệ sinh",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "風呂場",
+        "romaji": "furo jou ",
+        "meanVN": "phòng tắm",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "洗面所",
+        "romaji": "senmen sho ",
+        "meanVN": "bồn rửa",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "台所",
+        "romaji": "daidokoro ",
+        "meanVN": "bếp",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "食堂",
+        "romaji": "shokudou ",
+        "meanVN": "nhà ăn, phòng ăn",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "居間",
+        "romaji": "ima ",
+        "meanVN": "phòng khách, phòng sinh hoạt chung",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "寝室",
+        "romaji": "shinshitsu ",
+        "meanVN": "phòng ngủ",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "廊下",
+        "romaji": "rouka ",
+        "meanVN": "hành lang",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ベランダ",
+        "romaji": "beranda ",
+        "meanVN": "ban-công",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Cách sử dụng phòng tắm ở Nhật",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "1. Tắm sạch người trước khi vào bồn",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "2. Không dùng xà phòng hoặc khăn tắm trong bồn. Bồn tắm dùng để ngâm mình và thư giãn",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "3. khi ngâm xong thì không xả nước đi, mà đậy nắp bồn lại để cho người sau còn dùng.",
+        "lesson": 10,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "メニュー",
+        "romaji": "menyū ",
+        "meanVN": "THỰC ĐƠN",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "定食",
+        "romaji": "teishoku ",
+        "meanVN": "cơm suất",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ランチ",
+        "romaji": "ranchi ",
+        "meanVN": "cơm trưa",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "天どん",
+        "romaji": "tendon ",
+        "meanVN": "cơm và tôm chiên tẩm bột",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "親子どん",
+        "romaji": "oyako don ",
+        "meanVN": "cơm với thịt gà và trứng",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "牛どん",
+        "romaji": "ushi don ",
+        "meanVN": "cơm với thịt bò",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "焼き肉",
+        "romaji": "yakiniku ",
+        "meanVN": "thịt nướng ",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "野菜いため",
+        "romaji": "yasai itame ",
+        "meanVN": "rau xào",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "漬け物",
+        "romaji": "tsuke butsu ",
+        "meanVN": "dưa muối",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みそ汁",
+        "romaji": "miso jiru ",
+        "meanVN": "súp miso",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おにぎり",
+        "romaji": "onigiri ",
+        "meanVN": "cơm nắm",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "てんぷら",
+        "romaji": "tenpura ",
+        "meanVN": "tôm chiên tẩm bột ",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "すし",
+        "romaji": "sushi ",
+        "meanVN": "sushi",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うどん",
+        "romaji": "udon ",
+        "meanVN": "mì được làm từ bột lúa mạch",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "そば",
+        "romaji": "soba ",
+        "meanVN": "mì được làm từ bột kiều mạch",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ラーメン",
+        "romaji": "rāmen ",
+        "meanVN": "mì tàu",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "焼きそば",
+        "romaji": "yakisoba ",
+        "meanVN": "mì soba xào với rau và thịt ",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お好み焼き",
+        "romaji": "okonomiyaki ",
+        "meanVN": "okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn...)",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "カレーライス",
+        "romaji": "karēraisu ",
+        "meanVN": "cơm ca-ri",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ハンバーグ",
+        "romaji": "hanbāgu ",
+        "meanVN": "bánh thịt rán",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "コロッケ",
+        "romaji": "korokke ",
+        "meanVN": "khoai tây bột chiên",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "えびフライ",
+        "romaji": "ebi furai ",
+        "meanVN": "tôm chiên",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "フライドキチン",
+        "romaji": "furaidokichin ",
+        "meanVN": "thịt gà chiên",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "サラダ",
+        "romaji": "sarada ",
+        "meanVN": "sa-lát",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スープ",
+        "romaji": "sūpu ",
+        "meanVN": "súp",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スバゲティー",
+        "romaji": "subagetī ",
+        "meanVN": "mì Ý",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ビザー",
+        "romaji": "bizā ",
+        "meanVN": "Bánh pi-za",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ハンバーガー",
+        "romaji": "hanbāgā ",
+        "meanVN": "bánh Hăm-bơ-gơ",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "サンドウィッチ",
+        "romaji": "sandowicchi ",
+        "meanVN": "bánh San-uých",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "トースト",
+        "romaji": "tōsuto ",
+        "meanVN": "bánh mì nướng",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "コーヒー",
+        "romaji": "kōhī ",
+        "meanVN": "cà phê",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "紅茶",
+        "romaji": "koucha ",
+        "meanVN": "trà đen",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ココア",
+        "romaji": "kokoa ",
+        "meanVN": "ca-cao",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ジュース",
+        "romaji": "jūsu ",
+        "meanVN": "nước hoa quả",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "コーラ",
+        "romaji": "kōra ",
+        "meanVN": "cô-ca-cô-la",
+        "lesson": 11,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "祭りと名所",
+        "romaji": "matsuri to meisho ",
+        "meanVN": "LỄ HỘI VÀ ĐỊA DANH",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "鹿苑寺（金閣寺）金閣",
+        "romaji": "rokuonji (kinkakuji) kinkaku ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "祇園祭",
+        "romaji": "gionmatsuri ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "姫路城",
+        "romaji": "himejijou ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "原爆ドーム",
+        "romaji": "genbaku dōmu ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "天神祭",
+        "romaji": "tenjinmatsuri ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "東大寺・大仏",
+        "romaji": "toudaiji. daibutsu ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "神田祭り",
+        "romaji": "kanda matsuri ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "皇居",
+        "romaji": "koukyo ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "富士山",
+        "romaji": "fujisan ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "東照宮",
+        "romaji": "toushouguu ",
+        "meanVN": "",
+        "lesson": 12,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "町の中",
+        "romaji": "machi no naka ",
+        "meanVN": "TRONG KHU PHỐ",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "博物館",
+        "romaji": "hakubutsukan ",
+        "meanVN": "bảo tàng",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "美術館",
+        "romaji": "bijutsukan ",
+        "meanVN": "bảo tàng mỹ thuật",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "図書館",
+        "romaji": "toshokan ",
+        "meanVN": "thư viện",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "映画館",
+        "romaji": "eiga kan ",
+        "meanVN": "rạp chiếu phim",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "動物館",
+        "romaji": "doubutsu kan ",
+        "meanVN": "vườn bách thú",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "植物館",
+        "romaji": "shokubutsu kan ",
+        "meanVN": "vườn bách thảo",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "遊園地",
+        "romaji": "yuuen chi ",
+        "meanVN": "công viên giải trí",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お寺",
+        "romaji": "otera ",
+        "meanVN": "chùa ",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "神社",
+        "romaji": "jinja ",
+        "meanVN": "đền thờ đạo Thần",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "教会",
+        "romaji": "kyoukai ",
+        "meanVN": "nhà thờ",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "モスク",
+        "romaji": "mosuku ",
+        "meanVN": "đền thờ đạo Hồi",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "体育館",
+        "romaji": "taiikukan ",
+        "meanVN": "nhà thể dục thể thao",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "プール",
+        "romaji": "pūru ",
+        "meanVN": "bể bơi",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "公園",
+        "romaji": "kouen ",
+        "meanVN": "công viên",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "大使館",
+        "romaji": "taishikan ",
+        "meanVN": "đại sứ quán",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "入国管理局",
+        "romaji": "nyuukoku kanri kyoku ",
+        "meanVN": "cục xuất nhập cảnh",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "市役所",
+        "romaji": "shiyakusho ",
+        "meanVN": "văn phòng hành chính quận, thành phố",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "警察署",
+        "romaji": "keisatsu sho ",
+        "meanVN": "đồn cảnh sát",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "交番",
+        "romaji": "kouban ",
+        "meanVN": "bốt cảnh sát",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "消防署",
+        "romaji": "shoubousho ",
+        "meanVN": "trạm cứu hỏa",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "駐車場",
+        "romaji": "chuusha jou ",
+        "meanVN": "bãi đổ xe",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "大学",
+        "romaji": "daigaku ",
+        "meanVN": "trường đại học",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "高校",
+        "romaji": "koukou ",
+        "meanVN": "trường phổ thông trung học",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中学校",
+        "romaji": "chuugakkou ",
+        "meanVN": "trường phổ thông cơ sở",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "小学校",
+        "romaji": "shougakkou ",
+        "meanVN": "trường tiểu học",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "幼稚園",
+        "romaji": "youchien ",
+        "meanVN": "trường mẫu giáo",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "肉屋",
+        "romaji": "nikuya ",
+        "meanVN": "cửa hàng thịt ",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "パン屋",
+        "romaji": "pan ya ",
+        "meanVN": "cửa hàng bánh mì",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "魚屋",
+        "romaji": "sakanaya ",
+        "meanVN": "cửa hàng cá",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "八百屋",
+        "romaji": "yaoya ",
+        "meanVN": "cửa hàng rau",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "喫茶店",
+        "romaji": "kissaten ",
+        "meanVN": "quán gải khát",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "コンビニ",
+        "romaji": "konbini ",
+        "meanVN": "của hàng tiện lợi",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スーパー",
+        "romaji": "sūpā ",
+        "meanVN": "siêu thị ",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "デパート",
+        "romaji": "depāto ",
+        "meanVN": "cửa hàng bách hóa",
+        "lesson": 13,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "駅",
+        "romaji": "eki ",
+        "meanVN": "GA",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "切符売り場",
+        "romaji": "kippu uriba ",
+        "meanVN": "chỗ bán vé",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "自動販売機",
+        "romaji": "jidou hanbai ki ",
+        "meanVN": "máy bán vé tự động",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "精算機",
+        "romaji": "seisan ki ",
+        "meanVN": "máy thanh toán tiền thiếu",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "改札口",
+        "romaji": "kaisatsu guchi ",
+        "meanVN": "cửa soát vé",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "出口",
+        "romaji": "ideguchi ",
+        "meanVN": "cửa ra",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "入口",
+        "romaji": "iriguchi ",
+        "meanVN": "cửa vào",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "東口",
+        "romaji": "higashiguchi ",
+        "meanVN": "cửa Đông",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "西口",
+        "romaji": "nishiguchi ",
+        "meanVN": "cửa Tây",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "南口",
+        "romaji": "minamiguchi ",
+        "meanVN": "cửa Nam",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "北口",
+        "romaji": "kitaguchi ",
+        "meanVN": "cửa Bắc",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中央口",
+        "romaji": "chuuou guchi ",
+        "meanVN": "cửa Trung tâm",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "「プラット」ホーム",
+        "romaji": "puratto' hōmu ",
+        "meanVN": "sân ga",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "売店",
+        "romaji": "baiten ",
+        "meanVN": "quầy bán hàng, ki-ốt",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "コインロッカー",
+        "romaji": "koinrokkā ",
+        "meanVN": "hòm khóa cho thuê dùng tiền xu",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "タクシー乗り場",
+        "romaji": "takushī noriba ",
+        "meanVN": "điểm lên xe tắc-xi",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "バスターミナル",
+        "romaji": "basutāminaru ",
+        "meanVN": "bến xe buýt",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "バス停",
+        "romaji": "basutei ",
+        "meanVN": "điểm lên xe buýt",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "特急",
+        "romaji": "tokkyuu ",
+        "meanVN": "tốc hành đặc biệt ",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "急行",
+        "romaji": "kyuukou ",
+        "meanVN": "tốc hành",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "快速",
+        "romaji": "kaisoku ",
+        "meanVN": "nhanh",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "準急",
+        "romaji": "junkyuu ",
+        "meanVN": "bán tốc hành",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "普通",
+        "romaji": "futsuu ",
+        "meanVN": "(tàu) thường, địa phương",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "時刻表",
+        "romaji": "jikoku hyou ",
+        "meanVN": "bảng giờ chạy tàu",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "〜発",
+        "romaji": "? hatsu ",
+        "meanVN": "xuất phát từ 〜",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "〜着",
+        "romaji": "? chaku ",
+        "meanVN": "đến 〜",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "「東京」行き",
+        "romaji": "toukyou' iki ",
+        "meanVN": "đi \"Toukyou\"",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "定期券",
+        "romaji": "teiki ken ",
+        "meanVN": "vé tháng",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "回数券",
+        "romaji": "kaisuu ken ",
+        "meanVN": "vè giảm giá khi đi nhiều",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "片道",
+        "romaji": "katamichi ",
+        "meanVN": "một chiều",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "往復",
+        "romaji": "oufuku ",
+        "meanVN": "hai chiều, khứ hồi, đi và về",
+        "lesson": 14,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "職業",
+        "romaji": "shokugyou ",
+        "meanVN": "NGHỀ NGHIỆP ",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "会社員",
+        "romaji": "kaisha in ",
+        "meanVN": "nhân viên công ty",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "公務員",
+        "romaji": "koumuin ",
+        "meanVN": "công chức",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "駅員",
+        "romaji": "ekiin ",
+        "meanVN": "nhân viên nhà gà",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "銀行員",
+        "romaji": "ginkou in ",
+        "meanVN": "nhân viên ngân hàng",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "郵便局員",
+        "romaji": "yuubin kyokuin ",
+        "meanVN": "nhân viên bưu điện",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "店員",
+        "romaji": "tenin ",
+        "meanVN": "nhân viên cửa hàng, nhân viên nhà hàng",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "調理師",
+        "romaji": "chouri shi ",
+        "meanVN": "đầu bếp",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "理容師/美容師",
+        "romaji": "riyou shi / biyou shi ",
+        "meanVN": "thợ cắt tóc/ mỹ viện gia",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "教師",
+        "romaji": "kyoushi ",
+        "meanVN": "giáo viên",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "弁護士",
+        "romaji": "bengoshi ",
+        "meanVN": "luật sư",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "研究者",
+        "romaji": "kenkyuu sha ",
+        "meanVN": "nhà nghiêm cứu",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "医者/看護婦",
+        "romaji": "isha / kango fu ",
+        "meanVN": "bác sĩ/ y tá",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "運転手",
+        "romaji": "unten shu ",
+        "meanVN": "tài xế",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "警察官",
+        "romaji": "keisatsukan ",
+        "meanVN": "cảnh sát",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "外交官",
+        "romaji": "gaikou kan ",
+        "meanVN": "nhà ngoại giao",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "政治家",
+        "romaji": "seiji ka ",
+        "meanVN": "chính khách, nhà chính trị",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "画家",
+        "romaji": "gaka ",
+        "meanVN": "họa sĩ ",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "作家",
+        "romaji": "sakka ",
+        "meanVN": "nhà văn",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "音楽家",
+        "romaji": "ongakuka ",
+        "meanVN": "nhạc sĩ",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "建築家",
+        "romaji": "kenchiku ka ",
+        "meanVN": "kiến trúc sư",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "エンジニア",
+        "romaji": "enjinia ",
+        "meanVN": "kĩ sư",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "デザイナー",
+        "romaji": "dezainā ",
+        "meanVN": "nhà thiết kế",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ジャーナリスト",
+        "romaji": "jānarisuto ",
+        "meanVN": "nhà báo",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "歌手/俳優",
+        "romaji": "kashu / haiyuu ",
+        "meanVN": "ca sĩ/ diễn viên",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スポーツ選手",
+        "romaji": "supōtsu senshu ",
+        "meanVN": "vận động viên",
+        "lesson": 15,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ATMの使い方",
+        "romaji": "ATM no tsukaikata ",
+        "meanVN": "CÁCH SỬ DỤNG MÁY RÚT TIỀN TỰ ĐỘNG",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お預け入れ",
+        "romaji": "o adukeire ",
+        "meanVN": "gửi tiền vào ngân hàng",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お振り込み",
+        "romaji": "o furikomi ",
+        "meanVN": "chuyển tiền vào tài khoản của người khác",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お振り替え",
+        "romaji": "o furikae ",
+        "meanVN": "chuyển khoản",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お引き出し",
+        "romaji": "o hikidashi ",
+        "meanVN": "rút tiền",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "通帳記入",
+        "romaji": "kayoichou kinyuu ",
+        "meanVN": "ghi sổ",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "残高照会",
+        "romaji": "zandaka shoukai ",
+        "meanVN": "kiểm tra số tiền hiện có",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "暗証番号",
+        "romaji": "anshou bangou ",
+        "meanVN": "mã số bí mật (mật khẩu)",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Cách sử dụng máy rút tiền tự động:",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "1. Ấn nút 「お引き出し」",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "2. Đút thẻ ngân hàng vào",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "3. Nhập mã số bí mật",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "4. Nhập số tiền vào và ấn nút 「円」",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "5. nếu nhập số tiền đã đúng thì nhấn nút 「確認」",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "6. lấy tiền và thẻ ra",
+        "lesson": 16,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "体・病気",
+        "romaji": "karada. byouki ",
+        "meanVN": "CƠ THỂ VÀ CÁC LOẠI BỆNH",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "どう　しましたか",
+        "romaji": "dou shi mashi ta ka ",
+        "meanVN": "Anh/ Chị bị làm sao?",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "頭が　痛い",
+        "romaji": "atama ga itai ",
+        "meanVN": "đau đầu",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おなかが　痛い",
+        "romaji": "onaka ga itai ",
+        "meanVN": "đau bụng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "歯が　痛い",
+        "romaji": "ha ga itai ",
+        "meanVN": "đau răng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "熱が　ある",
+        "romaji": "netsu ga aru ",
+        "meanVN": "bị sốt",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せきが　出る",
+        "romaji": "seki ga deru ",
+        "meanVN": "ho ",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "鼻水が　出る",
+        "romaji": "hanamizu ga deru ",
+        "meanVN": "chảy nước mũi, sổ mũi",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "血が　出る",
+        "romaji": "chi ga deru ",
+        "meanVN": "chảy máu",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "吐き気が　する",
+        "romaji": "hakike ga suru ",
+        "meanVN": "buồn nôn",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "寒気が　する",
+        "romaji": "samuke ga suru ",
+        "meanVN": "gai người, ớn lạnh",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "めまいが　する",
+        "romaji": "memai ga suru ",
+        "meanVN": "chóng mặt",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "下痢を　する",
+        "romaji": "geri o suru ",
+        "meanVN": "ỉa chảy",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "便利を　する",
+        "romaji": "benri o suru ",
+        "meanVN": "táo bón",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "けがを　する",
+        "romaji": "kega o suru ",
+        "meanVN": "bị thương",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "やけどを　する",
+        "romaji": "yakedo o suru ",
+        "meanVN": "bị bỏng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "食欲が　ない",
+        "romaji": "shokuyoku ga nai ",
+        "meanVN": "không muốn ăn",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "肩が　こる",
+        "romaji": "kata ga koru ",
+        "meanVN": "đau vai",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "体が　だるい",
+        "romaji": "karada ga darui ",
+        "meanVN": "mỏi người",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かゆい",
+        "romaji": "kayui ",
+        "meanVN": "ngứa",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かぜ",
+        "romaji": "kaze ",
+        "meanVN": "cảm, cúm",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "インフルエンザ",
+        "romaji": "infuruenza ",
+        "meanVN": "cúm (dịch)",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "盲腸",
+        "romaji": "mouchou ",
+        "meanVN": "ruột thừa",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぎっくり腰",
+        "romaji": "gikkurigoshi ",
+        "meanVN": "trật đốt sống, trẹo hông",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ねんざ",
+        "romaji": "nenza ",
+        "meanVN": "bong gân",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "骨折",
+        "romaji": "kossetsu ",
+        "meanVN": "gẫy xương",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "二日酔い",
+        "romaji": "futsukayoi ",
+        "meanVN": "dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あたま",
+        "romaji": "a tama ",
+        "meanVN": "đầu",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かみ",
+        "romaji": "kami ",
+        "meanVN": "tóc",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かお",
+        "romaji": "kao ",
+        "meanVN": "mặt",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "め",
+        "romaji": "me ",
+        "meanVN": "mắt",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はな",
+        "romaji": "hana ",
+        "meanVN": "mũi",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くち",
+        "romaji": "kuchi ",
+        "meanVN": "miệng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "みみ",
+        "romaji": "mimi ",
+        "meanVN": "tai",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あご",
+        "romaji": "ago ",
+        "meanVN": "cằm",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "のど",
+        "romaji": "nodo ",
+        "meanVN": "họng ",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "くび",
+        "romaji": "ku bi ",
+        "meanVN": "cổ",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "かた",
+        "romaji": "kata ",
+        "meanVN": "vai",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "うで",
+        "romaji": "u de ",
+        "meanVN": "cánh tay",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひじ",
+        "romaji": "hiji ",
+        "meanVN": "khuỷu tay",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "て",
+        "romaji": "te ",
+        "meanVN": "bàn tay",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ゆび",
+        "romaji": "yu bi ",
+        "meanVN": "ngón tay",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "つめ",
+        "romaji": "tsume ",
+        "meanVN": "móng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "むね",
+        "romaji": "mune ",
+        "meanVN": "ngực",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "おなか",
+        "romaji": "onaka ",
+        "meanVN": "bụng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "せなか",
+        "romaji": "se naka ",
+        "meanVN": "lưng",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "こし",
+        "romaji": "koshi ",
+        "meanVN": "hông, eo",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "しり",
+        "romaji": "shiri ",
+        "meanVN": "mông",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "あし",
+        "romaji": "ashi ",
+        "meanVN": "chân",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ひざ",
+        "romaji": "hiza ",
+        "meanVN": "đầu gối",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ほね",
+        "romaji": "ho ne ",
+        "meanVN": "xương",
+        "lesson": 17,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "動き",
+        "romaji": "ugoki ",
+        "meanVN": "ĐỘNG TÁC",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "飛ぶ",
+        "romaji": "tobu ",
+        "meanVN": "bay",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "跳ぶ",
+        "romaji": "tobu ",
+        "meanVN": "nhảy",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "登る",
+        "romaji": "noboru ",
+        "meanVN": "leo",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "走る",
+        "romaji": "hashiru ",
+        "meanVN": "chạy",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "泳ぐ",
+        "romaji": "oyogu ",
+        "meanVN": "bơi",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "もぐる",
+        "romaji": "moguru ",
+        "meanVN": "lặn",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "飛び込む",
+        "romaji": "tobikomu ",
+        "meanVN": "nhảy xuống",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "逆立ちする",
+        "romaji": "sakadachi suru ",
+        "meanVN": "lộn ngược, trồng cây chuối",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "はう",
+        "romaji": "hau ",
+        "meanVN": "bò",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ける",
+        "romaji": "keru ",
+        "meanVN": "đá",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "振る",
+        "romaji": "furu ",
+        "meanVN": "vẫy",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "持ち上げる",
+        "romaji": "mochiageru ",
+        "meanVN": "nhâng, nhấc",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "投げる",
+        "romaji": "nageru ",
+        "meanVN": "ném",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たたく",
+        "romaji": "tataku ",
+        "meanVN": "đấm, đập, vỗ",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "引く",
+        "romaji": "hiku ",
+        "meanVN": "kéo",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "押す",
+        "romaji": "osu ",
+        "meanVN": "đẩy",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "曲げる",
+        "romaji": "mageru ",
+        "meanVN": "uốn, gập, bẻ cong",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "伸ばす",
+        "romaji": "nobasu ",
+        "meanVN": "duỗi thẳng, kéo dài ra",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "転ぶ",
+        "romaji": "korobu ",
+        "meanVN": "ngã",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "振り向く",
+        "romaji": "furimuku ",
+        "meanVN": "ngoảnh lại",
+        "lesson": 18,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "伝統文化・娯楽",
+        "romaji": "dentou bunka. goraku ",
+        "meanVN": "VĂN HÓA TRUYỀN THỐNG & GIẢI TRÍ",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "茶道（お茶）",
+        "romaji": "sadou (ocha) ",
+        "meanVN": "Trà đạo",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "華道（生け花）",
+        "romaji": "kadou (ikebana) ",
+        "meanVN": "nghệ thuật Cắm hoa",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "書道",
+        "romaji": "shodou ",
+        "meanVN": "Thư pháp",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "歌舞伎",
+        "romaji": "kabuki ",
+        "meanVN": "kịch Kabuki",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "能",
+        "romaji": "nou ",
+        "meanVN": "kịch Nou",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "文楽",
+        "romaji": "bunraku ",
+        "meanVN": "nghệ thuật Bunraku",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "相撲",
+        "romaji": "sumou ",
+        "meanVN": "vật Sumo",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "柔道",
+        "romaji": "juudou ",
+        "meanVN": "Judo",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "剣道",
+        "romaji": "kendou ",
+        "meanVN": "Kiếm đạo",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "空手",
+        "romaji": "karate ",
+        "meanVN": "Karate",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "漫才・落語",
+        "romaji": "manzai. rakugo ",
+        "meanVN": "hài・nghệ thuật kể chuyện",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "囲碁・将棋",
+        "romaji": "igo. shougi ",
+        "meanVN": "Cờ vây・cờ tướng",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "パチンコ",
+        "romaji": "pachinko ",
+        "meanVN": "trò chơi Pachinko",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "カラオケ",
+        "romaji": "karaoke ",
+        "meanVN": "Karaote",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "盆踊り",
+        "romaji": "bonodori ",
+        "meanVN": "Múa Bon",
+        "lesson": 19,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "人の呼び方",
+        "romaji": "hito no yobi kata ",
+        "meanVN": "CÁCH XƯNG HÔ",
+        "lesson": 20,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Trong gia đình thì mọi người xưng hô với nhau theo cách xưng hô của người nhỏ tuổi nhất. Bố mẹ gọi con trai và con gái là ”おにいちゃん(anh trai)”,　”おねえちゃん(chị gái)”.",
+        "lesson": 20,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Tức là bố mẹ đặt mình ở địa vị em út để xưng hô",
+        "lesson": 20,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Ngoài ra, trước mặt con cái thì chồng gọi vợ là \"おかあさん(mẹ)\", hoặc \"ママ(mama)\", còn vợ gọi chồng là \"おとうさん(bố)\" hoặc \"パパ(papa)\". ",
+        "lesson": 20,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Tuy nhiên cách xưng hô này ngày một ít dần đi. Gần đây cách gọi dùng tên phổ biến nhiều lên.",
+        "lesson": 20,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Trong công ty thì mọi người gọi nhau theo chức danh. Ví dụ cấp dưới gọi cấp trên là \"tổ trưởng (Ogawa)\". Nhân viên bán hàng gọi khách hàng là \"おきゃくさま(quý khách, quý ông, quý bà)\". Bác sĩ được bệnh nhân gọi là \"せんせい(thầy).",
+        "lesson": 20,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "役職名",
+        "romaji": "yakushoku mei ",
+        "meanVN": "CHỨC DANH",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "国",
+        "romaji": "kuni ",
+        "meanVN": "nhà nước, chính phủ",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "都道府県",
+        "romaji": "todoufuken ",
+        "meanVN": "tỉnh, thành phố",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "市",
+        "romaji": "shi ",
+        "meanVN": "thành phố(trong tỉnh)",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "町",
+        "romaji": "machi ",
+        "meanVN": "khu phố",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "村",
+        "romaji": "mura ",
+        "meanVN": "thôn",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "大学",
+        "romaji": "daigaku ",
+        "meanVN": "đại học",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "高等学校",
+        "romaji": "koutou gakkou ",
+        "meanVN": "trung học phổ thông",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中学校",
+        "romaji": "chuugakkou ",
+        "meanVN": "trung học cơ sở",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "小学校",
+        "romaji": "shougakkou ",
+        "meanVN": "tiểu học",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "幼稚園",
+        "romaji": "youchien ",
+        "meanVN": "mẫu giáo",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "会社",
+        "romaji": "kaisha ",
+        "meanVN": "công ty",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "会長",
+        "romaji": "kaichou ",
+        "meanVN": "chủ tịch",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "社長",
+        "romaji": "shachou ",
+        "meanVN": "giám đốc điều hành",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "重役",
+        "romaji": "juuyaku ",
+        "meanVN": "thành viên ban quản trị",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "部長",
+        "romaji": "buchou ",
+        "meanVN": "trưởng phòng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "課長",
+        "romaji": "kachou ",
+        "meanVN": "tổ trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "病院",
+        "romaji": "byouin ",
+        "meanVN": "bệnh viện",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "院長",
+        "romaji": "inchou ",
+        "meanVN": "giám đốc bệnh viện",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "部長",
+        "romaji": "buchou ",
+        "meanVN": "trưởng phòng, trưởng khoa",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "婦長",
+        "romaji": "fuchou ",
+        "meanVN": "y tá trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "銀行",
+        "romaji": "ginkou ",
+        "meanVN": "ngân hàng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "頭取",
+        "romaji": "toudori ",
+        "meanVN": "giám đốc",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "支店長",
+        "romaji": "shiten chou ",
+        "meanVN": "trưởng chi nhánh, giám đốc chi nhánh",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "駅",
+        "romaji": "eki ",
+        "meanVN": "nhà ga",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "駅長",
+        "romaji": "ekichou ",
+        "meanVN": "trưởng ga",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "警察",
+        "romaji": "keisatsu ",
+        "meanVN": "cảnh sát",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "署長",
+        "romaji": "shochou ",
+        "meanVN": "cảnh sát trưởng, trưởng đồn",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "首相（内閣総理大臣）",
+        "romaji": "shushou (naikaku souri daijin) ",
+        "meanVN": "thủ trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "知事",
+        "romaji": "chiji ",
+        "meanVN": "tỉnh trưởng, thị trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "市長",
+        "romaji": "shichou ",
+        "meanVN": "thị trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "町長",
+        "romaji": "chouchou ",
+        "meanVN": "trưởng khu phố",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "村長",
+        "romaji": "sonchou ",
+        "meanVN": "trưởng thôn",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "学長",
+        "romaji": "gakuchou ",
+        "meanVN": "hiệu trưởng, giám đốc",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "校長",
+        "romaji": "kouchou ",
+        "meanVN": "hiệu trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "園長",
+        "romaji": "enchou ",
+        "meanVN": "hiệu trưởng",
+        "lesson": 21,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "衣服",
+        "romaji": "ifuku ",
+        "meanVN": "QUẦN ÁO",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スーツ",
+        "romaji": "sūtsu ",
+        "meanVN": "com-lê",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ワンピース",
+        "romaji": "wanpīsu ",
+        "meanVN": "váy liền thân",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "上着",
+        "romaji": "uwagi ",
+        "meanVN": "áo khoát",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ズボン/パンツ",
+        "romaji": "zubon / pantsu ",
+        "meanVN": "quần âu",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ジーンズ",
+        "romaji": "jīnzu ",
+        "meanVN": "quần bò, quần jeans",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "スカート",
+        "romaji": "sukāto ",
+        "meanVN": "váy ngắn",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ブラウス",
+        "romaji": "burausu ",
+        "meanVN": "áo bờ-lu-zông",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ワイシャツ",
+        "romaji": "waishatsu ",
+        "meanVN": "áo sơ mi (trắng)",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "セーター",
+        "romaji": "sētā ",
+        "meanVN": "áo len",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "マフラー",
+        "romaji": "mafurā ",
+        "meanVN": "khăn",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "手袋",
+        "romaji": "tebukuro ",
+        "meanVN": "găng tay",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "下着",
+        "romaji": "shitagi ",
+        "meanVN": "quần áo lót",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "靴下",
+        "romaji": "kutsushita ",
+        "meanVN": "tất",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "パンスト",
+        "romaji": "pan suto ",
+        "meanVN": "quần tất",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "オーバーコート",
+        "romaji": "ōbā kōto ",
+        "meanVN": "áo choàng",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "レインコート",
+        "romaji": "reinkōto ",
+        "meanVN": "áo mưa",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ネクタイ",
+        "romaji": "nekutai ",
+        "meanVN": "cà vạt",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ベルト",
+        "romaji": "beruto ",
+        "meanVN": "thắt lưng",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ハイヒール",
+        "romaji": "haihīru ",
+        "meanVN": "giầy cao gót",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ブーツ",
+        "romaji": "būtsu ",
+        "meanVN": "ủng, giầy cao cổ",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "運動靴",
+        "romaji": "undou kutsu ",
+        "meanVN": "giầy thể thao",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "着物",
+        "romaji": "kimono ",
+        "meanVN": "kimono",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "帯",
+        "romaji": "obi ",
+        "meanVN": "đai",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ぞうり",
+        "romaji": "zouri ",
+        "meanVN": "guốc(đi kèm với kimono)",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "たび",
+        "romaji": "tabi ",
+        "meanVN": "tất (đi kèm với kimono)",
+        "lesson": 22,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "道路・交通",
+        "romaji": "douro. koutsuu ",
+        "meanVN": "ĐƯỜNG SÁ & GIAO THÔNG",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "歩道",
+        "romaji": "hodou ",
+        "meanVN": "đường cho người đi bộ",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "車道",
+        "romaji": "shadou ",
+        "meanVN": "đường cho xe ô tô",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "高速道路",
+        "romaji": "kousoku douro ",
+        "meanVN": "đường cao tốc",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "通り",
+        "romaji": "toori ",
+        "meanVN": "đường, phố",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "交差点",
+        "romaji": "kousaten ",
+        "meanVN": "ngã tư, giao lộ",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "横断歩道",
+        "romaji": "oudan hodou ",
+        "meanVN": "phần đường dành cho người đi bộ qua đường",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "歩道橋",
+        "romaji": "hodoukyou ",
+        "meanVN": "cầu vượt cho người đi bộ",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "角",
+        "romaji": "kaku ",
+        "meanVN": "góc",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "信号",
+        "romaji": "shingou ",
+        "meanVN": "đèn tín hiệu",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "坂",
+        "romaji": "saka ",
+        "meanVN": "dốc",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "踏切",
+        "romaji": "fumikiri ",
+        "meanVN": "đường ngang",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "ガソリンスタンド",
+        "romaji": "gasorinsutando ",
+        "meanVN": "trạm xăng",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "止まれ",
+        "romaji": "tomare ",
+        "meanVN": "dừng lại",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "進入禁止",
+        "romaji": "shinnyuu kinshi ",
+        "meanVN": "cấm đi vào",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "一方通行",
+        "romaji": "ippou tsuukou ",
+        "meanVN": "đường một chiều",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "駐車禁止",
+        "romaji": "chuusha kinshi ",
+        "meanVN": "cấm đỗ xe",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "右折禁止",
+        "romaji": "usetsu kinshi ",
+        "meanVN": "cấm rẽ phải",
+        "lesson": 23,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "贈答の習慣",
+        "romaji": "zoutou no shuukan ",
+        "meanVN": "TẬP QUÁN TẶNG QUÀ",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お年玉",
+        "romaji": "otoshidama ",
+        "meanVN": "tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày tết",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "入学祝い",
+        "romaji": "nyuugaku iwai ",
+        "meanVN": "tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "卒業祝い",
+        "romaji": "sotsugyou iwai ",
+        "meanVN": "tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "結婚祝い",
+        "romaji": "kekkon iwai ",
+        "meanVN": "tặng cho người lập gia đình, thường là tiền hoặc đồ vặt dùng trong nhà",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "出産祝い",
+        "romaji": "shussan iwai ",
+        "meanVN": "tặng cho người mới sinh con, thường là áo quần trẻ con, đồ chơi",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お中元",
+        "romaji": "o chuugen ",
+        "meanVN": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 7 hoặc tháng 8)",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お歳暮",
+        "romaji": "o seibo ",
+        "meanVN": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 12)",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お香典",
+        "romaji": "o kouden ",
+        "meanVN": "tiền cúng điếu cho gia đình có người qua đời",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "お見舞い",
+        "romaji": "o mimai ",
+        "meanVN": "tặng cho người bệnh, thường là hoa hoặc quả",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "熨斗袋",
+        "romaji": "noshibukuro ",
+        "meanVN": "một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác.",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Khi tặng tiền thì dùng một kiểu phong bì đặc biệt. ",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "Chọn loại thích hợp với mục đích tặng",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Phong bì dùng cho đám cưới có ruy băng màu đỏ-trắng hoặc màu vàng-bạc",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Phong bì dùng để chúc mừng có ruy-băng màu đỏ-trắng hoặc màu vàng-bạc",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "",
+        "romaji": "",
+        "meanVN": "* Phòng bì dùn để chi buồn (đám tang) có ruy-băng màu trắng đen",
+        "lesson": 24,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "人の一生",
+        "romaji": "hito no isshou ",
+        "meanVN": "CUỘC ĐỜI MỘT CON NGƯỜI",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "0歳",
+        "romaji": "0 sai ",
+        "meanVN": "0 tuổi ",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "赤ちゃん",
+        "romaji": "akachan ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "生まれます",
+        "romaji": "umare masu ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "保育園",
+        "romaji": "hoikuen ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "幼稚園",
+        "romaji": "youchien ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "6歳",
+        "romaji": "6 sai ",
+        "meanVN": "6 tuổi ",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "子ども",
+        "romaji": "kodomo ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "学校に入ります",
+        "romaji": "gakkou ni hairi masu ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "小学校",
+        "romaji": "shougakkou ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中学校",
+        "romaji": "chuugakkou ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "高等学校",
+        "romaji": "koutou gakkou ",
+        "meanVN": "",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "18歳",
+        "romaji": "18 sai ",
+        "meanVN": "18 tuổi",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "青年",
+        "romaji": "seinen ",
+        "meanVN": "thanh niên",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "大学",
+        "romaji": "daigaku ",
+        "meanVN": "đại học (4năm)",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "大学院",
+        "romaji": "daigakuin ",
+        "meanVN": "trên đại học (cao học)",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "学校を出ます",
+        "romaji": "gakkou o de masu ",
+        "meanVN": "tốt nghiệp ",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "就職します",
+        "romaji": "shuushoku shi masu ",
+        "meanVN": "đi làm",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "結婚します",
+        "romaji": "kekkon shi masu ",
+        "meanVN": "kết hôn",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "30歳",
+        "romaji": "30 sai ",
+        "meanVN": "30 tuổi",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "子どもが生まれます。",
+        "romaji": "kodomo ga umare masu. ",
+        "meanVN": "sinh con",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "40歳",
+        "romaji": "40 sai ",
+        "meanVN": "40 tuổi",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "中年",
+        "romaji": "chuunen ",
+        "meanVN": "trung niên",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "（離婚します）",
+        "romaji": "(rikon shi masu) ",
+        "meanVN": "(li hôn)",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "（再婚します）",
+        "romaji": "(saikon shi masu) ",
+        "meanVN": "(tái hôn)",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "60歳",
+        "romaji": "60 sai ",
+        "meanVN": "60 tuổi",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "仕事をやめます。",
+        "romaji": "shigoto o yame masu. ",
+        "meanVN": "nghỉ hưu",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "70歳",
+        "romaji": "70 sai ",
+        "meanVN": "70 tuổi",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "老人",
+        "romaji": "roujin ",
+        "meanVN": "người già",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    },
+    {
+        "vocabulary": "死にます。",
+        "romaji": "shini masu. ",
+        "meanVN": "chết",
+        "lesson": 25,
+        "lessonGroup": "reference",
+        "scope": "N5",
+        "book": "Minna No Nihongo"
+    }
+]
